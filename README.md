@@ -15,3 +15,4 @@ so we want to create a list that can help you query the companies much easier. b
 - [ING](https://www.ing.com/web/show)
 - [StyleShoots](https://styleshoots.com/)
 - [AIHR](https://www.aihr.com/homepage/)
+- [Soltia AB](https://www.soltia.se/)
