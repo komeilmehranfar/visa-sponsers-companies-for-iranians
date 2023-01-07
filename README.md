@@ -16,3 +16,4 @@ so we want to create a list that can help you query the companies much easier. b
 - [StyleShoots](https://styleshoots.com/)
 - [AIHR](https://www.aihr.com/homepage/)
 - [Soltia AB](https://www.soltia.se/)
+- [Geeks LTD](https://www.geeks.ltd.uk/)
