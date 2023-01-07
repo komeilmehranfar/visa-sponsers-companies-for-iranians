@@ -16,7 +16,32 @@ so we want to create a list that can help you query the companies much easier. b
 - ING [Website](https://www.ing.jobs/global/careers.htm) - [Linkedin](https://www.linkedin.com/company/ing/jobs/)
 - StyleShoots [Website](https://styleshoots.com/) - [Linkedin](https://www.linkedin.com/company/styleshoots/jobs/)
 - AIHR [Website](https://www.aihr.com/homepage/) - [Linkedin](https://www.linkedin.com/school/aihr/jobs/)
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
+- Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
+- DoWhile [Website](https://dowhile.se/) - [Linkedin](https://www.linkedin.com/company/dowhile-consulting-scandinavia-ab/jobs/)
+- Epidemic Sound [Website](https://www.epidemicsound.com/) - [Linkedin](https://www.linkedin.com/company/epidemic-sound/jobs/)
+- King [Website](https://www.king.com/) - [Linkedin](https://www.linkedin.com/company/king/jobs/)
+- Klarna [Website](https://www.klarna.com/careers/) - [Linkedin](https://www.linkedin.com/company/klarna/jobs/)
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+- Rebtel [Website](https://www.rebtel.com/en/jobs/) - [Linkedin](https://www.linkedin.com/company/rebtel/jobs)
+- Shortcut [Website](https://shortcut.io/sweden/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
+- Spotify [Website](https://open.spotify.com/) - [Linkedin](https://www.linkedin.com/company/spotify/jobs/)
+- Tele2 [Website](https://www.tele2.se/) - [Linkedin](https://www.linkedin.com/company/tele2/jobs/)
+- TruCaller [Website](https://www.truecaller.com/) - [Linkedin](https://www.linkedin.com/company/truecaller/jobs/)
+- 
 ### England
 - Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+### France
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+### Norway
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+- Shortcut [Website](https://shortcut.io/norway/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
+### Finland
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+### Denmark
+- Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
+
