@@ -1,5 +1,3 @@
-# visa-sponsers-companies-for-iranian
-
 # Companies which can provide visa sponsorship for Iranians
 
 Hi everyone, we want to list companies that hired at least one Iranian. 
