@@ -9,11 +9,11 @@ so we want to create a list that can help you query the companies much easier. b
 
 
 ## The list
-- [DPGMedia](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg)
-- [IO Consultancy](https://www.iodigital.com/nl/carriere)
-- [Touchtribe](https://www.touchtribe.nl/en)
-- [ING](https://www.ing.com/web/show)
-- [StyleShoots](https://styleshoots.com/)
-- [AIHR](https://www.aihr.com/homepage/)
-- [Soltia AB](https://www.soltia.se/)
-- [Geeks LTD](https://www.geeks.ltd.uk/)
+- DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
+- IO Consultancy [Website](https://www.iodigital.com/nl/carriere) - [Linkedin](https://www.linkedin.com/company/iodigital-com/jobs/)
+- Touchtribe [Website](https://www.touchtribe.nl/en/about-us/careers) - [Linkedin](https://www.linkedin.com/company/touchtribe/)
+- ING [Website](https://www.ing.jobs/global/careers.htm) - [Linkedin](https://www.linkedin.com/company/ing/jobs/)
+- StyleShoots [Website](https://styleshoots.com/) - [Linkedin](https://www.linkedin.com/company/styleshoots/jobs/)
+- AIHR [Website](https://www.aihr.com/homepage/) - [Linkedin](https://www.linkedin.com/school/aihr/jobs/)
+- Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
+- Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
