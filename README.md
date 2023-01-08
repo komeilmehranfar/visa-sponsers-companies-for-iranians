@@ -15,6 +15,7 @@ so we want to create a list that can help you query the companies much easier. b
 - StyleShoots [Website](https://styleshoots.com/) - [Linkedin](https://www.linkedin.com/company/styleshoots/jobs/)
 - AIHR [Website](https://www.aihr.com/homepage/) - [Linkedin](https://www.linkedin.com/school/aihr/jobs/)
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+- Flow Traders [Website](https://www.flowtraders.com/) - [Linkedin](https://www.linkedin.com/company/flow-traders/jobs/)
 
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
