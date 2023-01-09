@@ -17,6 +17,9 @@ so we want to create a list that can help you query the companies much easier. b
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Mobiquity [Website](https://www.mobiquity.com/) - [Linkedin](https://www.linkedin.com/company/mobiquity-inc-europe/)
 - Backbase [Website](https://www.backbase.com/) - [Linkedin](https://www.linkedin.com/company/backbase/)
+- Flow Traders [Website](https://www.flowtraders.com/) - [Linkedin](https://www.linkedin.com/company/flow-traders/jobs/)
+- Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
+- Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
