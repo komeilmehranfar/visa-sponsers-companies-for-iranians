@@ -16,6 +16,7 @@ so we want to create a list that can help you query the companies much easier. b
 - AIHR [Website](https://www.aihr.com/homepage/) - [Linkedin](https://www.linkedin.com/school/aihr/jobs/)
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
+- Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
