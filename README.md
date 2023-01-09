@@ -21,6 +21,10 @@ so we want to create a list that can help you query the companies much easier. b
 - Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
 - Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 
+### Germany
+- Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
+- Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
+- 
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
 - Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
