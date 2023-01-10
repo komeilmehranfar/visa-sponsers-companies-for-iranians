@@ -25,6 +25,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
 - Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
 - Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
+- Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
 - Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
