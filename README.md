@@ -26,6 +26,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
 - Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
 - Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
+- Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
 ### Sweden
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
 - Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
