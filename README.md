@@ -58,6 +58,7 @@ so we want to create a list that can help you query the companies much easier. b
 
 ### Finland
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+- RELEX Solutions [Website](https://www.relexsolutions.com/) - [Linkedin](https://www.linkedin.com/company/relexsolutions/jobs/)
 
 ### Denmark
 - Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
