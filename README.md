@@ -42,4 +42,5 @@ so we want to create a list that can help you query the companies much easier. b
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 ### Denmark
 - Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
-
+### Austria
+- chargepoint [Website](https://www.chargepoint.com/about/opportunities) - [Linkedin](https://www.linkedin.com/company/chargepoint/jobs/)
