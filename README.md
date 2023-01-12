@@ -21,6 +21,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Flow Traders [Website](https://www.flowtraders.com/) - [Linkedin](https://www.linkedin.com/company/flow-traders/jobs/)
 - Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
 - Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
+- Lunatech [Website](https://lunatech.com/) - [Linkedin](https://www.linkedin.com/company/lunatech-labs)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
