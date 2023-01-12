@@ -8,6 +8,7 @@ so we want to create a list that can help you query the companies much easier. b
 
 ## The list
 ### Netherlands
+- Leaseweb [Website](https://www.leaseweb.com/career) - [Linkedin](https://www.linkedin.com/company/leaseweb/jobs/)
 - DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
 - IO Consultancy [Website](https://www.iodigital.com/nl/carriere) - [Linkedin](https://www.linkedin.com/company/iodigital-com/jobs/)
 - Touchtribe [Website](https://www.touchtribe.nl/en/about-us/careers) - [Linkedin](https://www.linkedin.com/company/touchtribe/)
@@ -28,6 +29,8 @@ so we want to create a list that can help you query the companies much easier. b
 - Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
 - Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
 ### Sweden
+- Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
+- LeoVegas [Website](https://leovegasgroup.com/careers/) - [Linkedin](https://www.linkedin.com/company/leovegasgroup/jobs/)
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
 - Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
 - DoWhile [Website](https://dowhile.se/) - [Linkedin](https://www.linkedin.com/company/dowhile-consulting-scandinavia-ab/jobs/)
