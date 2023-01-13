@@ -41,7 +41,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Rebtel [Website](https://www.rebtel.com/en/jobs/) - [Linkedin](https://www.linkedin.com/company/rebtel/jobs)
 - Shortcut [Website](https://shortcut.io/sweden/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
-- Spotify [Website](https://open.spotify.com/) - [Linkedin](https://www.linkedin.com/company/spotify/jobs/)
+- Spotify [Website](https://open.spotify.com/) - [Linkedin](https://www.linkedin.com/company/spotify/jobs/) - [Careers](https://www.lifeatspotify.com/)
 - Tele2 [Website](https://www.tele2.se/) - [Linkedin](https://www.linkedin.com/company/tele2/jobs/)
 - TruCaller [Website](https://www.truecaller.com/) - [Linkedin](https://www.linkedin.com/company/truecaller/jobs/)
 
@@ -54,7 +54,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 
 ### Norway
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/) - [Careers](https://career.oneflow.com/jobs/)
 - Shortcut [Website](https://shortcut.io/norway/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
 
 ### Finland
