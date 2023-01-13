@@ -78,3 +78,5 @@ so we want to create a list that can help you query the companies much easier. b
 ### Estonia
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
 
+### Austria
+- Journi [Website](https://journiapp.com) - [Linkedin](https://www.linkedin.com/company/journiapp/jobs/)
