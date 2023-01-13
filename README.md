@@ -32,6 +32,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/jobs/)
 - MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/jobs/)
 - TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/jobs/)
+- Holidu [Website](https://holidu.com) - [Linkedin](https://www.linkedin.com/company/holidu/jobs/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
