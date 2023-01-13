@@ -29,9 +29,9 @@ so we want to create a list that can help you query the companies much easier. b
 - Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
 - Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
 - Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
-- Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/)
-- MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/)
-- TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/)
+- Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/jobs/)
+- MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/jobs/)
+- TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/jobs/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
@@ -73,7 +73,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
 
 ### Italy
-- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/)
+- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/jobs/)
 
 ### Estonia
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
