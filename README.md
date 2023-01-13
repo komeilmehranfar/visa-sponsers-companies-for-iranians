@@ -31,7 +31,6 @@ so we want to create a list that can help you query the companies much easier. b
 - Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
 - Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/)
 - MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/)
-- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/)
 - TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/)
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
@@ -70,3 +69,7 @@ so we want to create a list that can help you query the companies much easier. b
 
 ### New Zealand
 - Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
+
+### Italy
+- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/)
+
