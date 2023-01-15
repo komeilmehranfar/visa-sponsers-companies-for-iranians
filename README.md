@@ -22,6 +22,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
 - Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 - Lunatech [Website](https://lunatech.com/) - [Linkedin](https://www.linkedin.com/company/lunatech-labs)
+- Catawiki [Website](https://catawiki.careers) - [Linkedin](https://www.linkedin.com/company/catawiki/jobs/)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
@@ -29,6 +30,13 @@ so we want to create a list that can help you query the companies much easier. b
 - Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
 - Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
 - Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
+- Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/jobs/)
+- MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/jobs/)
+- TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/jobs/)
+- Holidu [Website](https://holidu.com) - [Linkedin](https://www.linkedin.com/company/holidu/jobs/)
+- Taxdoo [Website](http://www.taxdoo.com/) - [Linkedin](https://www.linkedin.com/company/taxdoo/jobs/)
+- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
+
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
 - LeoVegas [Website](https://leovegasgroup.com/careers/) - [Linkedin](https://www.linkedin.com/company/leovegasgroup/jobs/)
@@ -49,6 +57,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Unilever [Website](https://careers.unilever.com/) - [Linkedin](https://www.linkedin.com/company/unilever/jobs/)
+- Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
 
 ### France
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
@@ -64,5 +73,19 @@ so we want to create a list that can help you query the companies much easier. b
 ### Denmark
 - Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
 
+### New Zealand
+- Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
+
+### Italy
+- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/jobs/)
+
+### Estonia
+- Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
+
 ### Austria
+- Journi [Website](https://journiapp.com) - [Linkedin](https://www.linkedin.com/company/journiapp/jobs/)
 - chargepoint [Website](https://www.chargepoint.com/about/opportunities) - [Linkedin](https://www.linkedin.com/company/chargepoint/jobs/)
+
+### Spain
+- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
+
