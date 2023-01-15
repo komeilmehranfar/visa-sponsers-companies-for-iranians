@@ -30,6 +30,8 @@ so we want to create a list that can help you query the companies much easier. b
 - Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
 - Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
 - Taxdoo [Website](http://www.taxdoo.com/) - [Linkedin](https://www.linkedin.com/company/taxdoo/jobs/)
+- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
+
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
 - LeoVegas [Website](https://leovegasgroup.com/careers/) - [Linkedin](https://www.linkedin.com/company/leovegasgroup/jobs/)
@@ -67,3 +69,6 @@ so we want to create a list that can help you query the companies much easier. b
 
 ### New Zealand
 - Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
+
+### Spain
+- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
