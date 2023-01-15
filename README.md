@@ -37,6 +37,8 @@ so we want to create a list that can help you query the companies much easier. b
 - Taxdoo [Website](http://www.taxdoo.com/) - [Linkedin](https://www.linkedin.com/company/taxdoo/jobs/)
 - Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
 - Vimcar [Website](https://vimcar.com/) - [Linkedin](https://www.linkedin.com/company/vimcar/jobs/)
+- DataGuard [Website](https://www.dataguard.de/) - [Linkedin](https://www.linkedin.com/company/dataguard1/jobs/)
+- Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
