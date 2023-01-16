@@ -39,6 +39,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Vimcar [Website](https://vimcar.com/) - [Linkedin](https://www.linkedin.com/company/vimcar/jobs/)
 - DataGuard [Website](https://www.dataguard.de/) - [Linkedin](https://www.linkedin.com/company/dataguard1/jobs/)
 - Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
+- Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
