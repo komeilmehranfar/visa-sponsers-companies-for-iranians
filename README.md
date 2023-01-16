@@ -89,6 +89,7 @@ so we want to create a list that can help you query the companies much easier. b
 ### Austria
 - Journi [Website](https://journiapp.com) - [Linkedin](https://www.linkedin.com/company/journiapp/jobs/)
 - chargepoint [Website](https://www.chargepoint.com/about/opportunities) - [Linkedin](https://www.linkedin.com/company/chargepoint/jobs/)
+- Certsy [Website](https://certsy.com/) - [Linkedin](https://www.linkedin.com/company/certsy/jobs/)
 
 ### Spain
 - Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
