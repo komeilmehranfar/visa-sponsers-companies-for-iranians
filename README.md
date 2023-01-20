@@ -8,6 +8,7 @@ so we want to create a list that can help you query the companies much easier. b
 
 ## The list
 ### Netherlands
+- DataChef [Website](https://alpha.datachef.co/) - [Linkedin](https://www.linkedin.com/company/datachefco/)
 - Leaseweb [Website](https://www.leaseweb.com/career) - [Linkedin](https://www.linkedin.com/company/leaseweb/jobs/)
 - DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
 - IO Consultancy [Website](https://www.iodigital.com/nl/carriere) - [Linkedin](https://www.linkedin.com/company/iodigital-com/jobs/)
