@@ -25,6 +25,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Lunatech [Website](https://lunatech.com/) - [Linkedin](https://www.linkedin.com/company/lunatech-labs)
 - Catawiki [Website](https://catawiki.careers) - [Linkedin](https://www.linkedin.com/company/catawiki/jobs/)
 - Studocu [Website](https://jobs.studocu.com/) - [Linkedin](https://www.linkedin.com/company/studeersnel.nl/jobs/)
+- Bunq [Website](https://www.bunq.com/) - [Linkedin](https://www.linkedin.com/company/bunq/jobs/)
 - NN [Website](https://www.nn-group.com/) - [Linkedin](https://www.linkedin.com/company/nn/jobs/)
 - Nearfield Instruments [Website](http://www.nearfieldinstruments.com/) - [Linkedin](https://www.linkedin.com/company/nearfield-instruments-bv/jobs/)
 - Code nomadas [WebSite](https://www.codenomads.nl/career/) - [Linkedin](https://www.linkedin.com/company/code-nomads/)
