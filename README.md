@@ -8,7 +8,7 @@ so we want to create a list that can help you query the companies much easier. b
 
 ## The list
 ### Netherlands
-- DataChef [Website](https://alpha.datachef.co/) - [Linkedin](https://www.linkedin.com/company/datachefco/)
+- DataChef [Website](https://datachef.co/) - [Linkedin](https://www.linkedin.com/company/datachefco/)
 - Leaseweb [Website](https://www.leaseweb.com/career) - [Linkedin](https://www.linkedin.com/company/leaseweb/jobs/)
 - DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
 - IO Consultancy [Website](https://www.iodigital.com/nl/carriere) - [Linkedin](https://www.linkedin.com/company/iodigital-com/jobs/)
@@ -26,6 +26,10 @@ so we want to create a list that can help you query the companies much easier. b
 - Catawiki [Website](https://catawiki.careers) - [Linkedin](https://www.linkedin.com/company/catawiki/jobs/)
 - Studocu [Website](https://jobs.studocu.com/) - [Linkedin](https://www.linkedin.com/company/studeersnel.nl/jobs/)
 - Bunq [Website](https://www.bunq.com/) - [Linkedin](https://www.linkedin.com/company/bunq/jobs/)
+- NN [Website](https://www.nn-group.com/) - [Linkedin](https://www.linkedin.com/company/nn/jobs/)
+- Nearfield Instruments [Website](http://www.nearfieldinstruments.com/) - [Linkedin](https://www.linkedin.com/company/nearfield-instruments-bv/jobs/)
+- Code nomadas [WebSite](https://www.codenomads.nl/career/) - [Linkedin](https://www.linkedin.com/company/code-nomads/)
+- Mollie [Website](https://www.mollie.com/) - [Linkedin](https://www.linkedin.com/company/molliepayments/jobs/)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
@@ -43,6 +47,7 @@ so we want to create a list that can help you query the companies much easier. b
 - DataGuard [Website](https://www.dataguard.de/) - [Linkedin](https://www.linkedin.com/company/dataguard1/jobs/)
 - Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
 - Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
+- Energy Robotics [Website](https://www.energy-robotics.com/) - [Linkedin](https://www.linkedin.com/company/energy-robotics/jobs/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
