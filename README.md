@@ -21,7 +21,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Backbase [Website](https://www.backbase.com/) - [Linkedin](https://www.linkedin.com/company/backbase/)
 - Flow Traders [Website](https://www.flowtraders.com/) - [Linkedin](https://www.linkedin.com/company/flow-traders/jobs/)
 - Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
-- Takeaway.com [Website](https://www.takeaway.com/) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
+- JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJVXealLU_xkcRja_At0z9AGY) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 - Lunatech [Website](https://lunatech.com/) - [Linkedin](https://www.linkedin.com/company/lunatech-labs)
 - Catawiki [Website](https://catawiki.careers) - [Linkedin](https://www.linkedin.com/company/catawiki/jobs/)
 - Studocu [Website](https://jobs.studocu.com/) - [Linkedin](https://www.linkedin.com/company/studeersnel.nl/jobs/)
@@ -48,6 +48,7 @@ so we want to create a list that can help you query the companies much easier. b
 - Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
 - Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
 - Energy Robotics [Website](https://www.energy-robotics.com/) - [Linkedin](https://www.linkedin.com/company/energy-robotics/jobs/)
+- JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
