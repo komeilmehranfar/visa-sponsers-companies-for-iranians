@@ -2,7 +2,7 @@
 
 Hi everyone, we want to list companies that hired at least one Iranian. 
 If you are an expert and tried to relocate from Iran, you definitely found out that it's hard to find companies that can support you as an Iranian to relocate and obtain visa.
-so we want to create a list that can help you query the companies much easier. by this approach you can improve your conversion rate of getting an interview from European or Canadian companies.
+So, we want to create a list that can help you query the companies much easier. In this way, you can increase your chance of getting an interview from European or Canadian companies.
 
 
 
@@ -30,6 +30,10 @@ so we want to create a list that can help you query the companies much easier. b
 - Nearfield Instruments [Website](http://www.nearfieldinstruments.com/) - [Linkedin](https://www.linkedin.com/company/nearfield-instruments-bv/jobs/)
 - Code nomadas [WebSite](https://www.codenomads.nl/career/) - [Linkedin](https://www.linkedin.com/company/code-nomads/)
 - Mollie [Website](https://www.mollie.com/) - [Linkedin](https://www.linkedin.com/company/molliepayments/jobs/)
+- bol.com [Website](https://careers.bol.com/en/) - [Linkedin](https://www.linkedin.com/company/bol-com/jobs/)
+- Knab [Website](https://www.werkenbijknab.nl/en) - [Linkedin](https://www.linkedin.com/company/knab/jobs/)
+- ASML [Website](https://www.asml.com/en/careers/find-your-job?page=1&facets=vacancycountry%253dNetherlands&sortBy=date) - [Linkedin](https://www.linkedin.com/company/asml/jobs/)
+- Company.info [Website](https://companyinfo.nl/en/) - [Linkedin](https://www.linkedin.com/company/company-info/jobs/)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
