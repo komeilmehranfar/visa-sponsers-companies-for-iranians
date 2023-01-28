@@ -34,6 +34,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Knab [Website](https://www.werkenbijknab.nl/en) - [Linkedin](https://www.linkedin.com/company/knab/jobs/)
 - ASML [Website](https://www.asml.com/en/careers/find-your-job?page=1&facets=vacancycountry%253dNetherlands&sortBy=date) - [Linkedin](https://www.linkedin.com/company/asml/jobs/)
 - Company.info [Website](https://companyinfo.nl/en/) - [Linkedin](https://www.linkedin.com/company/company-info/jobs/)
+- Eurail [Website](https://www.eurail.com/en/careers) - [Linkedin](https://www.linkedin.com/company/eurail/)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
