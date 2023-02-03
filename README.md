@@ -76,6 +76,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Unilever [Website](https://careers.unilever.com/) - [Linkedin](https://www.linkedin.com/company/unilever/jobs/)
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
+- Jaja Finance [Website](https://jaja.co.uk/) - [Linkedin](https://www.linkedin.com/company/jaja-finance/)
 
 ### France
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
