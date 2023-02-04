@@ -53,6 +53,12 @@ So, we want to create a list that can help you query the companies much easier. 
 - Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
 - Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
 - Energy Robotics [Website](https://www.energy-robotics.com/) - [Linkedin](https://www.linkedin.com/company/energy-robotics/jobs/)
+- Appsfactory [Website](https://appsfactory.de/en/)
+- Yelp [Website][https://www.yelp.com/]
+- Sixt [Website][https://www.sixt.com/]
+- OneFootball [Website][https://onefootball.com/en/home]
+- OWWN [Website][https://www.owwn.com/en]
+- Personio [Website][https://www.personio.com/]
 - JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 
 ### Sweden
