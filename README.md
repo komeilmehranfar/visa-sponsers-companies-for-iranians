@@ -54,6 +54,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
 - Energy Robotics [Website](https://www.energy-robotics.com/) - [Linkedin](https://www.linkedin.com/company/energy-robotics/jobs/)
 - JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
+- Solvians [Website](https://www.solvians.com/) - [Linkedin](https://www.linkedin.com/company/solvians-it-solutions-gmbh/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
