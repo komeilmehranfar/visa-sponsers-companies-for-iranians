@@ -70,6 +70,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Spotify [Website](https://open.spotify.com/) - [Linkedin](https://www.linkedin.com/company/spotify/jobs/)
 - Tele2 [Website](https://www.tele2.se/) - [Linkedin](https://www.linkedin.com/company/tele2/jobs/)
 - TruCaller [Website](https://www.truecaller.com/) - [Linkedin](https://www.linkedin.com/company/truecaller/jobs/)
+- Segula Technologies [Website](https://sverige.segulatechnologies.com/en/) - [Linkedin](https://www.linkedin.com/company/segula-technologies/)
 
 ### England
 - Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
