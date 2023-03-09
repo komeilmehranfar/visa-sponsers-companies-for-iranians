@@ -35,6 +35,8 @@ So, we want to create a list that can help you query the companies much easier. 
 - ASML [Website](https://www.asml.com/en/careers/find-your-job?page=1&facets=vacancycountry%253dNetherlands&sortBy=date) - [Linkedin](https://www.linkedin.com/company/asml/jobs/)
 - Company.info [Website](https://companyinfo.nl/en/) - [Linkedin](https://www.linkedin.com/company/company-info/jobs/)
 - Eurail [Website](https://www.eurail.com/en/careers) - [Linkedin](https://www.linkedin.com/company/eurail/)
+- Picnic [Website](https://www.picnic.app/careers/all-jobs) - [Linkedin](https://www.linkedin.com/company/picnictechnologies/)
+- Albelli [Website](https://apply.workable.com/albelli-photoboxgroup/) - [Linkedin](https://www.linkedin.com/company/albelli-photoboxgroup/)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
