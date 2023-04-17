@@ -37,6 +37,8 @@ So, we want to create a list that can help you query the companies much easier. 
 - Eurail [Website](https://www.eurail.com/en/careers) - [Linkedin](https://www.linkedin.com/company/eurail/)
 - Picnic [Website](https://www.picnic.app/careers/all-jobs) - [Linkedin](https://www.linkedin.com/company/picnictechnologies/)
 - Albelli [Website](https://apply.workable.com/albelli-photoboxgroup/) - [Linkedin](https://www.linkedin.com/company/albelli-photoboxgroup/)
+- AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
+- dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
 
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
@@ -62,6 +64,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Personio [Website](https://www.personio.com/)
 - JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 - Solvians [Website](https://www.solvians.com/) - [Linkedin](https://www.linkedin.com/company/solvians-it-solutions-gmbh/)
+- Babbel [Website](https://www.babbel.com) - [Linkedin](https://www.linkedin.com/company/babbel-com)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
