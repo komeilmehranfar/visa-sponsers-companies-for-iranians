@@ -37,7 +37,10 @@ So, we want to create a list that can help you query the companies much easier. 
 - Eurail [Website](https://www.eurail.com/en/careers) - [Linkedin](https://www.linkedin.com/company/eurail/)
 - Picnic [Website](https://www.picnic.app/careers/all-jobs) - [Linkedin](https://www.linkedin.com/company/picnictechnologies/)
 - Albelli [Website](https://apply.workable.com/albelli-photoboxgroup/) - [Linkedin](https://www.linkedin.com/company/albelli-photoboxgroup/)
+- AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
+- dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
 - Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
+
 
 ### Turkey
 - Vodafone Türkiye [Website](https://www.vodafone.com.tr/) - [Linkedin](https://www.linkedin.com/company/vodafone/?originalSubdomain=tr)
@@ -65,6 +68,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Personio [Website](https://www.personio.com/)
 - JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 - Solvians [Website](https://www.solvians.com/) - [Linkedin](https://www.linkedin.com/company/solvians-it-solutions-gmbh/)
+- Babbel [Website](https://www.babbel.com) - [Linkedin](https://www.linkedin.com/company/babbel-com)
 - Adjust GmbH [Website](https://www.adjust.com/)- [Linkedin](https://www.linkedin.com/company/adjustcom)
 - Gameforge [Website](https://gameforge.com) - [Linkedin](https://www.linkedin.com/company/gameforge)
 - The unbelievable Machine [Website](https://unbelievable-machine.com/) - [Linkedin](https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/)
