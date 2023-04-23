@@ -39,7 +39,11 @@ So, we want to create a list that can help you query the companies much easier. 
 - Albelli [Website](https://apply.workable.com/albelli-photoboxgroup/) - [Linkedin](https://www.linkedin.com/company/albelli-photoboxgroup/)
 - AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
 - dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
+- Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
 
+
+### Turkey
+- Vodafone Türkiye [Website](https://www.vodafone.com.tr/) - [Linkedin](https://www.linkedin.com/company/vodafone/?originalSubdomain=tr)
 ### Germany
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
 - Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
@@ -65,6 +69,14 @@ So, we want to create a list that can help you query the companies much easier. 
 - JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
 - Solvians [Website](https://www.solvians.com/) - [Linkedin](https://www.linkedin.com/company/solvians-it-solutions-gmbh/)
 - Babbel [Website](https://www.babbel.com) - [Linkedin](https://www.linkedin.com/company/babbel-com)
+- Adjust GmbH [Website](https://www.adjust.com/)- [Linkedin](https://www.linkedin.com/company/adjustcom)
+- Gameforge [Website](https://gameforge.com) - [Linkedin](https://www.linkedin.com/company/gameforge)
+- The unbelievable Machine [Website](https://unbelievable-machine.com/) - [Linkedin](https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/)
+- Scout24 SE [Website](https://www.scout24.com/) - [Linkedin](https://www.linkedin.com/company/scout24-group/)
+- Mercedes-Benz Leasing Deutschland [Website](https://www.mercedes-benz.de/passengercars/finance/financing-leasing.html) - [Linkedin](https://www.linkedin.com/company/mercedes-benz-leasing-deutschland)
+- JITpay™ Group [Website](https://www.jitpay.eu/en/) - [Linkedin](https://www.linkedin.com/company/jitpay-gmbh/)
+- Amadeus [Website](https://amadeus.com/en) - [Linkedin](https://www.linkedin.com/company/amadeus/)
+- Media.Monks [Website](https://media.monks.com/) - [Linkedin]()https://www.linkedin.com/company/mediamonks/
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
@@ -109,6 +121,7 @@ So, we want to create a list that can help you query the companies much easier. 
 
 ### Italy
 - BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/jobs/)
+- Harpa Italia [Website](https://www.harpaitalia.it/) - [Linkedin](https://www.linkedin.com/company/harpa-italia-s.r.l.)
 
 ### Estonia
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
