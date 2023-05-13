@@ -76,7 +76,8 @@ So, we want to create a list that can help you query the companies much easier. 
 - Mercedes-Benz Leasing Deutschland [Website](https://www.mercedes-benz.de/passengercars/finance/financing-leasing.html) - [Linkedin](https://www.linkedin.com/company/mercedes-benz-leasing-deutschland)
 - JITpay™ Group [Website](https://www.jitpay.eu/en/) - [Linkedin](https://www.linkedin.com/company/jitpay-gmbh/)
 - Amadeus [Website](https://amadeus.com/en) - [Linkedin](https://www.linkedin.com/company/amadeus/)
-- Media.Monks [Website](https://media.monks.com/) - [Linkedin]()https://www.linkedin.com/company/mediamonks/
+- Media.Monks [Website](https://media.monks.com/) - [Linkedin](https://www.linkedin.com/company/mediamonks/)
+- Eurowings Digital [Website](https://eurowings-digital.de/) - [Linkedin](https://www.linkedin.com/company/eurowings-digital-gmbh/)
 
 ### Sweden
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
