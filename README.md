@@ -39,6 +39,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Picnic [Website](https://www.picnic.app/careers/all-jobs) - [Linkedin](https://www.linkedin.com/company/picnictechnologies/)
 - Studocu [Website](https://jobs.studocu.com/) - [Linkedin](https://www.linkedin.com/company/studeersnel.nl/jobs/)
 - StyleShoots [Website](https://styleshoots.com/) - [Linkedin](https://www.linkedin.com/company/styleshoots/jobs/)
+- The Hyve [Website](https://thehyve.nl/) - [Linkedin](https://www.linkedin.com/company/thehyve/)
 - Touchtribe [Website](https://www.touchtribe.nl/en/about-us/careers) - [Linkedin](https://www.linkedin.com/company/touchtribe/)
 
 ### Turkey
