@@ -40,7 +40,9 @@ So, we want to create a list that can help you query the companies much easier. 
 - AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
 - dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
 - Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
-
+- Relay42 [Website](https://relay42.com/careers) - [Linkedin](https://www.linkedin.com/company/relay42)
+- KPN [Website](https://jobs.kpn.com/vacatures) - [Linkedin](https://www.linkedin.com/company/kpn/)
+- Bitvavo [Website](https://jobs.bitvavo.com/en/) - [Linkedin](https://www.linkedin.com/company/bitvavocom/)
 
 ### Turkey
 - Vodafone Türkiye [Website](https://www.vodafone.com.tr/) - [Linkedin](https://www.linkedin.com/company/vodafone/?originalSubdomain=tr)
