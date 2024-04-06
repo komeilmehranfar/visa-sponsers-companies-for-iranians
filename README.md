@@ -97,11 +97,15 @@ So, we want to create a list that can help you query the companies much easier. 
 - Segula Technologies [Website](https://sverige.segulatechnologies.com/en/) - [Linkedin](https://www.linkedin.com/company/segula-technologies/)
 
 ### England
+###### You can check if a UK company offers visa sponsorship through [this site](https://uktiersponsors.co.uk/) 
 - Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Unilever [Website](https://careers.unilever.com/) - [Linkedin](https://www.linkedin.com/company/unilever/jobs/)
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
 - Jaja Finance [Website](https://jaja.co.uk/) - [Linkedin](https://www.linkedin.com/company/jaja-finance/)
+- Monzo [Website](https://monzo.com/careers/) - [Linkedin](https://www.linkedin.com/company/monzo-bank/jobs/)
+- Havas [Website](https://www.havas.com/who-we-are/our-careers/) - [Linkedin](https://www.linkedin.com/company/havas/jobs/)
+- Vestiaire Collective [Website](https://www.vestiairecollective.com/journal/join-the-team/) - [Linkedin](https://www.linkedin.com/company/vestiaireco/jobs/)
 
 ### France
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
