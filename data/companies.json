@@ -229,6 +229,12 @@
         "website": "https://www.adyen.com/",
         "linkedin": "https://www.linkedin.com/company/adyen",
         "industry": "Payment Technology"
+      },
+      {
+        "name": "Bitvavo",
+        "website": "https://jobs.bitvavo.com/",
+        "linkedin": "https://www.linkedin.com/company/bitvavocom/jobs",
+        "industry": "Financial Services"
       }
     ],
     "turkey": [
