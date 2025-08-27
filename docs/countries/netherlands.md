@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-**Total Companies**: 37  
+**Total Companies**: 38  
 **Popular Industries**: Digital Consulting, Software Development, Data & Analytics  
 **Major Cities**: Amsterdam, The Hague, Utrecht, Eindhoven
 
@@ -121,6 +121,12 @@ The Netherlands is one of the most Iranian-friendly countries in Europe with a s
 - **Website**: [jobs.studocu.com/](https://jobs.studocu.com/)
 - **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/studeersnel.nl/jobs/)
 - **Overview**: EdTech company
+
+#### **Bitvavo**
+- **Industry**: Financial Services
+- **Website**: [jobs.bitvavo.com/](https://jobs.bitvavo.com/)
+- **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/bitvavocom/jobs)
+- **Overview**: Financial Services company
 
 #### **Flow Traders**
 - **Industry**: Financial Trading

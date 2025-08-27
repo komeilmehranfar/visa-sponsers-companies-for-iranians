@@ -8,7 +8,7 @@
 
 This section contains detailed information about companies that provide visa sponsorship for Iranian professionals, organized by country. Each country page includes company listings, market insights, visa information, and job search tips.
 
-**Total**: **110 Companies** across **14 Countries**
+**Total**: **111 Companies** across **14 Countries**
 
 ---
 
@@ -20,7 +20,7 @@ This section contains detailed information about companies that provide visa spo
 
 | Country | Companies | Industries | Page |
 |---------|-----------|------------|------|
-| 🇳🇱 **Netherlands** | **37** | FinTech, E-commerce, Software | [View Details →](countries/netherlands.md) |
+| 🇳🇱 **Netherlands** | **38** | FinTech, E-commerce, Software | [View Details →](countries/netherlands.md) |
 | 🇩🇪 **Germany** | **34** | Technology, Automotive, Finance | [View Details →](countries/germany.md) |
 | 🇸🇪 **Sweden** | **16** | Gaming, Music Tech, FinTech | [View Details →](countries/sweden.md) |
 
