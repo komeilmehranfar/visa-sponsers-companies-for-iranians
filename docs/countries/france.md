@@ -23,14 +23,8 @@
 
 ---
 
-## 💼 Job Search Tips
-
-- **English Proficiency**: French helpful, English accepted in international companies
-- **EU Access**: EU Blue Card available
-- **Cost of Living**: Varies by city
-
 ---
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: 2024-01-01*
+*Last updated: 2025-08-27*

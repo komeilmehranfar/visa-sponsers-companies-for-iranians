@@ -247,35 +247,7 @@ ${config.whySection.map(item => `- ${item}`).join('\n')}
 
 ${generateCompanySection(companies)}---
 
-## 💼 Job Search Tips for ${config.name}
-
-### 🎯 Application Strategy
-
-- **Language**: English ${config.name === 'United Kingdom' ? 'essential (native level)' : 'widely accepted in tech roles'}
-- **CV Format**: ${config.name === 'Germany' ? 'German CV format preferred (with photo)' : config.name === 'United Kingdom' ? 'UK format (2 pages max, no photo)' : 'European CV format or modern layout'}
-- **LinkedIn**: ${config.name === 'Sweden' ? 'Very important for networking' : 'Essential for professional networking'}
-- **Networking**: Join local tech meetups and professional events
-
-${config.visaInfo.length > 0 ? `### 📋 Visa Information
-
-${config.visaInfo.map(item => `- ${item}`).join('\n')}
-
-` : ''}### 💡 Insider Tips
-
-- Strong emphasis on work-life balance
-- Many companies offer relocation assistance
-- High-quality healthcare and social benefits
-- Consider learning local language for better long-term opportunities
-
-${config.salaryRanges.length > 0 ? `## 📈 Market Insights
-
-**Salary Ranges** (Approximate):
-
-${config.salaryRanges.map(range => `- ${range}`).join('\n')}
-
-**Growing Sectors**: ${topIndustries}
-
-` : ''}---
+---
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
@@ -303,12 +275,6 @@ ${config.description}
 ## 🏢 Companies
 
 ${generateCompanySection(companies)}---
-
-## 💼 Job Search Tips
-
-- **English Proficiency**: ${config.name === 'France' ? 'French helpful, English accepted in international companies' : 'High level in tech companies'}
-- **EU Access**: ${['turkey', 'norway'].includes(countryKey) ? 'Work permit required' : 'EU Blue Card available'}
-- **Cost of Living**: ${config.name === 'Norway' ? 'Very high, especially Oslo' : 'Varies by city'}
 
 ---
 
@@ -448,93 +414,6 @@ This section contains detailed information about companies that provide visa spo
     }
   });
 
-  // Add rest of content...
-  content += `\n---
-
-## 🎯 Quick Navigation by Industry
-
-### 💰 FinTech & Finance
-
-- **Netherlands**: Adyen, Mollie, Bunq, ING
-- **Germany**: Trade Republic, JITpay
-- **Sweden**: Klarna
-- **United Kingdom**: Wise, Monzo, Jaja Finance
-
-### 🛒 E-commerce & Marketplaces
-
-- **Netherlands**: Booking.com, bol.com, Catawiki, Picnic
-- **Germany**: Zalando, Delivery Hero, HelloFresh
-
-### 🎮 Gaming & Entertainment
-
-- **Sweden**: King, Spotify, Epidemic Sound
-- **Germany**: Gameforge, OneFootball
-
-### 💻 Software & Technology
-
-- **Netherlands**: ASML, Backbase, Lunatech
-- **Germany**: Personio, Babbel, DataGuard
-- **Sweden**: Oneflow, Shortcut, Digital Route
-
----
-
-## 🚀 Getting Started
-
-### For Job Seekers
-
-1. **Choose your target country** based on visa policies and opportunities
-2. **Review the country page** for market insights and tips
-3. **Check company websites** for current openings
-4. **Prepare applications** following country-specific guidelines
-
-### For Contributors
-
-1. **Check our [contributing guidelines](../CONTRIBUTING.md)**
-2. **Use our [issue templates](../.github/issue_template/)** to add companies
-3. **Help us keep information current** by reporting changes
-
----
-
-## 📈 Market Trends
-
-### 🔥 Fastest Growing Sectors
-
-- **FinTech**: Strong presence across multiple countries
-- **E-commerce**: Accelerated by COVID-19 pandemic
-- **Gaming**: Particularly strong in Sweden and Germany
-- **SaaS/B2B Software**: High demand for technical talent
-
-### 🌍 Top Destinations for Iranians
-
-1. **Netherlands**: Easiest visa process, strong tech ecosystem
-2. **Germany**: Largest market, good work-life balance
-3. **Sweden**: Innovation hub, excellent quality of life
-4. **United Kingdom**: Global financial center, English-speaking
-
----
-
-## 💡 Pro Tips
-
-### 🎯 Application Strategy
-
-- **Target 2-3 countries** rather than applying everywhere
-- **Learn country-specific application norms** (CV format, cover letters)
-- **Build professional networks** in your target countries
-- **Consider remote-first companies** for initial opportunities
-
-### 📋 Visa Planning
-
-- **Research visa requirements** early in your job search
-- **Understand sponsor responsibilities** and company requirements
-- **Prepare documents** in advance (degrees, work experience, language tests)
-- **Consider visa-friendly countries** like Netherlands or Germany first
-
----
-
-[← Back to Main Page](../README.md)
-
-*Last updated: ${metadata.last_updated}*
-`;
 
   fs.writeFileSync('docs/countries.md', content);
   console.log('✅ Generated: countries.md (index page)');
