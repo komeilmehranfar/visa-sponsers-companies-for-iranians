@@ -40,79 +40,24 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 > **New!** 📖 Each country now has its own dedicated page with detailed company information, market insights, visa tips, and salary ranges.
 
-### Top Countries by Number of Companies
-
-| Country           | Companies | Popular Industries               |
-| ----------------- | --------- | -------------------------------- |
-| 🇳🇱 Netherlands    | 37        | FinTech, E-commerce, Software    |
-| 🇩🇪 Germany        | 34        | Technology, Automotive, Finance  |
-| 🇸🇪 Sweden         | 16        | Gaming, Music Tech, FinTech      |
-| 🇬🇧 United Kingdom | 8         | FinTech, Fashion, Consumer Goods |
-| 🇳🇴 Norway         | 2         | Software, Consulting             |
-
 ### Browse by Country
 
-#### 🔥 Major Tech Hubs
-
-<table>
-<tr>
-<td width="50%">
-
-**🇳🇱 Netherlands (37 companies)**
-
-- ASML, Booking.com, Adyen, ING
-- FinTech, E-commerce, Software
-- [**View All Companies →**](docs/countries/netherlands.md)
-
-</td>
-<td width="50%">
-
-**🇩🇪 Germany (34 companies)**
-
-- Delivery Hero, Zalando, HelloFresh
-- Technology, Automotive, Finance
-- [**View All Companies →**](docs/countries/germany.md)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🇸🇪 Sweden (16 companies)**
-
-- Spotify, Klarna, King, Epidemic Sound
-- Gaming, Music Tech, FinTech
-- [**View All Companies →**](docs/countries/sweden.md)
-
-</td>
-<td width="50%">
-
-**🇬🇧 United Kingdom (8 companies)**
-
-- Wise, Monzo, Unilever, Vestiaire Collective
-- FinTech, Fashion, Consumer Goods
-- [**View All Companies →**](docs/countries/united-kingdom.md)
-
-</td>
-</tr>
-</table>
-
-#### 🌍 Other Countries
-
-| Country        | Companies | Key Industries                                                              | Details                                 |
-| -------------- | --------- | --------------------------------------------------------------------------- | --------------------------------------- |
-| 🇳🇴 Norway      | 2         | Software, Consulting                                                        | [View →](docs/countries/norway.md)      |
-| 🇫🇮 Finland     | 2         | Supply Chain, Contract Management                                           | [View →](docs/countries/finland.md)     |
-| 🇮🇹 Italy       | 2         | Mobile Apps, Tech Consulting                                                | [View →](docs/countries/italy.md)       |
-| 🇦🇹 Austria     | 3         | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View →](docs/countries/austria.md)     |
-| 🇹🇷 Turkey      | 1         | Telecommunications                                                          | [View →](docs/countries/turkey.md)      |
-| 🇫🇷 France      | 1         | Contract Management                                                         | [View →](docs/countries/france.md)      |
-| 🇩🇰 Denmark     | 1         | Software Development                                                        | [View →](docs/countries/denmark.md)     |
-| 🇪🇪 Estonia     | 1         | FinTech                                                                     | [View →](docs/countries/estonia.md)     |
-| 🇪🇸 Spain       | 1         | B2B Marketplace                                                             | [View →](docs/countries/spain.md)       |
-| 🇳🇿 New Zealand | 1         | Entertainment Technology                                                    | [View →](docs/countries/new-zealand.md) |
-
-### 🗺️ [**Browse All Countries →**](docs/countries.md)
+| Country               | Companies | Key Industries                      | Details                                            |
+| --------------------- | --------- | ----------------------------------- | -------------------------------------------------- |
+| 🇳🇱 **Netherlands**  | **37**     | Digital Consulting, Software Development, Data & Analytics | [View Details →](docs/countries/netherlands.md)     |
+| 🇩🇪 **Germany**      | **34**     | Food Delivery, FinTech, Travel Technology | [View Details →](docs/countries/germany.md)     |
+| 🇸🇪 **Sweden**       | **16**     | Telecommunications, Usage Intelligence, Online Gaming | [View Details →](docs/countries/sweden.md)     |
+| 🇬🇧 **United Kingdom** | **8**      | FinTech, Technology Services, Contract Management | [View Details →](docs/countries/united-kingdom.md)     |
+| 🇦🇹 **Austria**      | **3**      | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View Details →](docs/countries/austria.md)     |
+| 🇳🇴 **Norway**       | **2**      | Contract Management, Software Development | [View Details →](docs/countries/norway.md)     |
+| 🇫🇮 **Finland**      | **2**      | Contract Management, Supply Chain Optimization | [View Details →](docs/countries/finland.md)     |
+| 🇮🇹 **Italy**        | **2**      | Mobile Apps, Technology Consulting  | [View Details →](docs/countries/italy.md)     |
+| 🇹🇷 **Turkey**       | **1**      | Telecommunications                  | [View Details →](docs/countries/turkey.md)     |
+| 🇫🇷 **France**       | **1**      | Contract Management                 | [View Details →](docs/countries/france.md)     |
+| 🇩🇰 **Denmark**      | **1**      | Software Development                | [View Details →](docs/countries/denmark.md)     |
+| 🇳🇿 **New Zealand**  | **1**      | Entertainment Technology            | [View Details →](docs/countries/new-zealand.md)     |
+| 🇪🇪 **Estonia**      | **1**      | FinTech                             | [View Details →](docs/countries/estonia.md)     |
+| 🇪🇸 **Spain**        | **1**      | B2B Marketplace                     | [View Details →](docs/countries/spain.md)     |
 
 ## 🤝 Contributing
 
