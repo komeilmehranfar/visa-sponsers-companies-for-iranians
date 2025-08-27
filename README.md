@@ -116,44 +116,9 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Help us grow this database by adding companies that have hired Iranian professionals.
+Want to add a company or improve the database? We'd love your help!
 
-### 🆕 Adding New Companies
-
-**Requirements:**
-
-- Company must have hired at least one Iranian professional
-- Please provide evidence (LinkedIn profiles, testimonials, etc.)
-- Include company name, website, LinkedIn, and industry
-
-### 📝 How to Contribute
-
-1. **Fork** this repository
-2. **Edit** the `/data/companies.json` file to add your company
-3. **Submit** a pull request with evidence of Iranian hires
-4. **Wait for review** - we'll verify and merge approved companies
-
-### 📋 Contribution Options
-
-- 🏢 [Add New Company](/.github/ISSUE_TEMPLATE/add_company.md)
-- 🔄 [Update Company Info](/.github/ISSUE_TEMPLATE/update_company.md)
-- 🐛 [Report Issue](/.github/ISSUE_TEMPLATE/bug_report.md)
-
-## 📜 Guidelines
-
-### ✅ What to Include
-
-- Companies with verified Iranian hires
-- Direct career page links
-- Active LinkedIn company pages
-- Accurate industry classifications
-
-### ❌ What Not to Include
-
-- Recruitment agencies (unless they're hiring directly)
-- Companies without verified Iranian employees
-- Outdated or inactive companies
-- Duplicate entries
+**👉 [See our Contributing Guide](CONTRIBUTING.md) for detailed instructions**
 
 ## 📞 Getting Help
 

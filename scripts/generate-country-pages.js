@@ -490,7 +490,7 @@ This section contains detailed information about companies that provide visa spo
 ### For Contributors
 
 1. **Check our [contributing guidelines](../CONTRIBUTING.md)**
-2. **Use our [issue templates](../.github/ISSUE_TEMPLATE/)** to add companies
+2. **Use our [issue templates](../.github/issue_template/)** to add companies
 3. **Help us keep information current** by reporting changes
 
 ---
