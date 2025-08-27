@@ -222,6 +222,7 @@ const generateCompanySection = (companies) => {
 // Generate detailed country page
 const generateDetailedCountryPage = (countryKey, companies, config, metadata) => {
   const topIndustries = getTopIndustries(companies);
+  const currentDate = new Date().toISOString().split('T')[0];
   
   return `# ${config.flag} ${config.name} - Visa Sponsorship Companies
 
@@ -251,12 +252,14 @@ ${generateCompanySection(companies)}---
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: ${metadata.last_updated}*
+*Last updated: ${currentDate}*
 `;
 };
 
 // Generate simple country page for smaller countries
 const generateSimpleCountryPage = (countryKey, companies, config, metadata) => {
+  const currentDate = new Date().toISOString().split('T')[0];
+  
   return `# ${config.flag} ${config.name} - Visa Sponsorship Companies
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
@@ -280,7 +283,7 @@ ${generateCompanySection(companies)}---
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: ${metadata.last_updated}*
+*Last updated: ${currentDate}*
 `;
 };
 
@@ -291,7 +294,16 @@ const generateCountryPages = () => {
     console.log('📖 Reading companies.json...');
     const companiesData = JSON.parse(fs.readFileSync('data/companies.json', 'utf8'));
     const { companies, metadata } = companiesData;
-
+    
+    // Update metadata with current date
+    const currentDate = new Date().toISOString().split('T')[0];
+    metadata.last_updated = currentDate;
+    
+    // Write back updated metadata
+    companiesData.metadata = metadata;
+    fs.writeFileSync('data/companies.json', JSON.stringify(companiesData, null, 2));
+    console.log(`📅 Updated last_updated to: ${currentDate}`);
+    
     // Ensure output directory exists
     const outputDir = 'docs/countries';
     if (!fs.existsSync(outputDir)) {
@@ -322,6 +334,9 @@ const generateCountryPages = () => {
 
     // Generate index page
     generateCountriesIndexPage(companies, metadata);
+    
+    // Update main README.md
+    updateMainReadme(companies, metadata);
     
     console.log(`🎉 Successfully generated ${pagesGenerated} country pages!`);
     console.log(`📊 Total companies: ${metadata.total_companies}`);
@@ -417,6 +432,101 @@ This section contains detailed information about companies that provide visa spo
 
   fs.writeFileSync('docs/countries.md', content);
   console.log('✅ Generated: countries.md (index page)');
+};
+
+// Update main README.md with current statistics
+const updateMainReadme = (companies, metadata) => {
+  console.log('📝 Updating README.md...');
+  
+  try {
+    let readmeContent = fs.readFileSync('README.md', 'utf8');
+    
+    // Update total companies count
+    readmeContent = readmeContent.replace(
+      /- \*\*🏢 Total Companies\*\*: \d+/,
+      `- **🏢 Total Companies**: ${metadata.total_companies}`
+    );
+    
+    // Update last updated date
+    const currentDate = new Date();
+    const monthName = currentDate.toLocaleString('default', { month: 'long' });
+    const year = currentDate.getFullYear();
+    readmeContent = readmeContent.replace(
+      /- \*\*📈 Last Updated\*\*: .*/,
+      `- **📈 Last Updated**: ${monthName} ${year}`
+    );
+    
+    // Update country counts in the table
+    const countryMappings = {
+      'netherlands': '🇳🇱 Netherlands',
+      'germany': '🇩🇪 Germany', 
+      'sweden': '🇸🇪 Sweden',
+      'england': '🇬🇧 United Kingdom',
+      'norway': '🇳🇴 Norway',
+      'finland': '🇫🇮 Finland',
+      'italy': '🇮🇹 Italy',
+      'austria': '🇦🇹 Austria',
+      'turkey': '🇹🇷 Turkey',
+      'france': '🇫🇷 France',
+      'denmark': '🇩🇰 Denmark',
+      'estonia': '🇪🇪 Estonia',
+      'spain': '🇪🇸 Spain',
+      'new_zealand': '🇳🇿 New Zealand'
+    };
+    
+    // Update counts in the main table
+    Object.entries(companies).forEach(([countryKey, companyList]) => {
+      const countryDisplay = countryMappings[countryKey];
+      if (countryDisplay) {
+        const regex = new RegExp(`\\| ${countryDisplay.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s+\\| \\d+`, 'g');
+        readmeContent = readmeContent.replace(regex, `| ${countryDisplay} | ${companyList.length}`);
+      }
+    });
+    
+    // Update the detailed country sections
+    if (companies.netherlands) {
+      readmeContent = readmeContent.replace(
+        /\*\*🇳🇱 Netherlands \(\d+ companies\)\*\*/,
+        `**🇳🇱 Netherlands (${companies.netherlands.length} companies)**`
+      );
+    }
+    
+    if (companies.germany) {
+      readmeContent = readmeContent.replace(
+        /\*\*🇩🇪 Germany \(\d+ companies\)\*\*/,
+        `**🇩🇪 Germany (${companies.germany.length} companies)**`
+      );
+    }
+    
+    if (companies.sweden) {
+      readmeContent = readmeContent.replace(
+        /\*\*🇸🇪 Sweden \(\d+ companies\)\*\*/,
+        `**🇸🇪 Sweden (${companies.sweden.length} companies)**`
+      );
+    }
+    
+    if (companies.england) {
+      readmeContent = readmeContent.replace(
+        /\*\*🇬🇧 United Kingdom \(\d+ companies\)\*\*/,
+        `**🇬🇧 United Kingdom (${companies.england.length} companies)**`
+      );
+    }
+    
+    // Update industry information for Austria (since we added a new company there)
+    if (companies.austria) {
+      const austriaIndustries = getTopIndustries(companies.austria);
+      readmeContent = readmeContent.replace(
+        /\| 🇦🇹 Austria\s+\| \d+\s+\| [^|]+ \|/,
+        `| 🇦🇹 Austria     | ${companies.austria.length}         | ${austriaIndustries} |`
+      );
+    }
+    
+    fs.writeFileSync('README.md', readmeContent);
+    console.log('✅ Updated: README.md');
+    
+  } catch (error) {
+    console.error('❌ Error updating README.md:', error.message);
+  }
 };
 
 // Run the script

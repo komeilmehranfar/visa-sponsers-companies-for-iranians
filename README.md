@@ -31,9 +31,9 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 ## 📊 Quick Stats
 
-- **🏢 Total Companies**: 108
+- **🏢 Total Companies**: 110
 - **🌍 Countries Covered**: 14
-- **📈 Last Updated**: January 2024
+- **📈 Last Updated**: August 2025
 - **📝 Data Format**: Structured JSON for easy integration
 
 ## 🌍 Browse Companies
@@ -44,11 +44,11 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 | Country           | Companies | Popular Industries               |
 | ----------------- | --------- | -------------------------------- |
-| 🇳🇱 Netherlands    | 37        | FinTech, E-commerce, Software    |
-| 🇩🇪 Germany        | 33        | Technology, Automotive, Finance  |
-| 🇸🇪 Sweden         | 16        | Gaming, Music Tech, FinTech      |
+| 🇳🇱 Netherlands | 37        | FinTech, E-commerce, Software    |
+| 🇩🇪 Germany | 34        | Technology, Automotive, Finance  |
+| 🇸🇪 Sweden | 16        | Gaming, Music Tech, FinTech      |
 | 🇬🇧 United Kingdom | 8         | FinTech, Fashion, Consumer Goods |
-| 🇳🇴 Norway         | 2         | Software, Consulting             |
+| 🇳🇴 Norway | 2         | Software, Consulting             |
 
 ### Browse by Country
 
@@ -67,7 +67,7 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 </td>
 <td width="50%">
 
-**🇩🇪 Germany (33 companies)**
+**🇩🇪 Germany (34 companies)**
 
 - Delivery Hero, Zalando, HelloFresh
 - Technology, Automotive, Finance
@@ -101,15 +101,15 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 | Country        | Companies | Key Industries                    | Details                                 |
 | -------------- | --------- | --------------------------------- | --------------------------------------- |
-| 🇳🇴 Norway      | 2         | Software, Consulting              | [View →](docs/countries/norway.md)      |
-| 🇫🇮 Finland     | 2         | Supply Chain, Contract Management | [View →](docs/countries/finland.md)     |
-| 🇮🇹 Italy       | 2         | Mobile Apps, Tech Consulting      | [View →](docs/countries/italy.md)       |
-| 🇦🇹 Austria     | 2         | Travel Tech, EV Charging          | [View →](docs/countries/austria.md)     |
-| 🇹🇷 Turkey      | 1         | Telecommunications                | [View →](docs/countries/turkey.md)      |
-| 🇫🇷 France      | 1         | Contract Management               | [View →](docs/countries/france.md)      |
-| 🇩🇰 Denmark     | 1         | Software Development              | [View →](docs/countries/denmark.md)     |
-| 🇪🇪 Estonia     | 1         | FinTech                           | [View →](docs/countries/estonia.md)     |
-| 🇪🇸 Spain       | 1         | B2B Marketplace                   | [View →](docs/countries/spain.md)       |
+| 🇳🇴 Norway | 2         | Software, Consulting              | [View →](docs/countries/norway.md)      |
+| 🇫🇮 Finland | 2         | Supply Chain, Contract Management | [View →](docs/countries/finland.md)     |
+| 🇮🇹 Italy | 2         | Mobile Apps, Tech Consulting      | [View →](docs/countries/italy.md)       |
+| 🇦🇹 Austria     | 3         | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View →](docs/countries/austria.md)     |
+| 🇹🇷 Turkey | 1         | Telecommunications                | [View →](docs/countries/turkey.md)      |
+| 🇫🇷 France | 1         | Contract Management               | [View →](docs/countries/france.md)      |
+| 🇩🇰 Denmark | 1         | Software Development              | [View →](docs/countries/denmark.md)     |
+| 🇪🇪 Estonia | 1         | FinTech                           | [View →](docs/countries/estonia.md)     |
+| 🇪🇸 Spain | 1         | B2B Marketplace                   | [View →](docs/countries/spain.md)       |
 | 🇳🇿 New Zealand | 1         | Entertainment Technology          | [View →](docs/countries/new-zealand.md) |
 
 ### 🗺️ [**Browse All Countries →**](docs/countries.md)
