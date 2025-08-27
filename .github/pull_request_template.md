@@ -12,11 +12,11 @@
 
 ## 🏢 Companies (if applicable)
 
-**Company Name:** 
-**Country:** 
-**Industry:** 
-**Website:** 
-**LinkedIn:** 
+**Company Name:**
+**Country:**
+**Industry:**
+**Website:**
+**LinkedIn:**
 
 ## 🔍 How do you know this company hires Iranian professionals?
 
@@ -30,4 +30,4 @@
 
 ---
 
-*Thank you for contributing to help Iranian professionals find visa sponsorship opportunities!*
+_Thank you for contributing to help Iranian professionals find visa sponsorship opportunities!_

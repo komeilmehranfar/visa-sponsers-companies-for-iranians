@@ -6,58 +6,22 @@ labels: ["bug"]
 assignees: ""
 ---
 
-## Bug Description
+## 🐛 What's the problem?
 
-**What is the issue?**
-A clear and concise description of what the bug is.
+<!-- Describe what's wrong -->
 
-**Where did you encounter this issue?**
+## 📍 Where did you find this issue?
 
-- [ ] Company data (JSON file)
-- [ ] README documentation
-- [ ] GitHub templates
-- [ ] Scripts/tools
-- [ ] Other: **********\_**********
+<!-- Which page, file, or section? -->
 
-## Steps to Reproduce
+## 🔍 What did you expect to happen?
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!-- What should work correctly? -->
 
-## Expected Behavior
+## 📸 Screenshots or links (if helpful)
 
-A clear and concise description of what you expected to happen.
-
-## Actual Behavior
-
-A clear and concise description of what actually happened.
-
-## Screenshots/Evidence
-
-If applicable, add screenshots, code snippets, or links to help explain your problem.
-
-## Additional Context
-
-**Device/Environment:**
-
-- OS: [e.g. macOS, Windows, Linux]
-- Browser: [e.g. Chrome, Firefox, Safari] (if applicable)
-- Tool used: [e.g. jq, curl, browser] (if applicable)
-
-**Additional Information:**
-Add any other context about the problem here.
-
-## Suggested Solution
-
-If you have ideas on how to fix this issue, please share them here.
+<!-- Add any evidence that helps explain the problem -->
 
 ---
 
-**Priority Level:**
-
-- [ ] Low (typo, formatting)
-- [ ] Medium (affects some users)
-- [ ] High (affects many users)
-- [ ] Critical (breaks functionality)
+_Thank you for helping us improve the database!_
