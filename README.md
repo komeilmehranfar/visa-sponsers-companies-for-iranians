@@ -97,7 +97,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Segula Technologies [Website](https://sverige.segulatechnologies.com/en/) - [Linkedin](https://www.linkedin.com/company/segula-technologies/)
 
 ### England
-###### You can check if a UK company offers visa sponsorship through [this site](https://uktiersponsors.co.uk/) 
+
 - Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Unilever [Website](https://careers.unilever.com/) - [Linkedin](https://www.linkedin.com/company/unilever/jobs/)
