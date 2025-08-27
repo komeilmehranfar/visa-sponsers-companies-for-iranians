@@ -6,13 +6,13 @@ First off, thank you for considering contributing to this project! 🎉 Your con
 
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
-- [Getting Started](#getting-started)
+- [Quick Start](#quick-start)
 - [Adding Companies](#adding-companies)
 - [Updating Information](#updating-information)
 - [Data Format Guidelines](#data-format-guidelines)
+- [Automated Workflow](#automated-workflow)
 - [Verification Requirements](#verification-requirements)
 - [Development Setup](#development-setup)
-- [Style Guide](#style-guide)
 - [Pull Request Process](#pull-request-process)
 
 ## 📜 Code of Conduct
@@ -37,11 +37,17 @@ Found incorrect information or broken links? Report them using our issue templat
 
 Have ideas for new features, better organization, or useful tools? We'd love to hear them!
 
-### 📚 Improving Documentation
+## ⚡ Quick Start
 
-Help make our documentation clearer and more comprehensive.
+> **🤖 New Automated Workflow**: You only need to update `data/companies.json`! Country pages are automatically generated when your PR is merged.
 
-## 🚀 Getting Started
+### Simple 3-Step Process:
+
+1. **📝 Edit JSON**: Only modify `/data/companies.json`
+2. **✅ Submit PR**: Use our templates and provide evidence
+3. **🚀 Auto-Update**: Country pages update automatically after merge!
+
+### Traditional Setup (Optional):
 
 1. **Fork** the repository on GitHub
 2. **Clone** your fork locally:
@@ -54,8 +60,6 @@ Help make our documentation clearer and more comprehensive.
    git checkout -b add-company-name
    # or
    git checkout -b update-company-info
-   # or
-   git checkout -b fix-broken-links
    ```
 
 ## 🏢 Adding Companies
@@ -68,38 +72,30 @@ Help make our documentation clearer and more comprehensive.
 
 ### Step-by-Step Process
 
-1. **Check for duplicates** - Search the existing data to ensure the company isn't already listed
+1. **Check for duplicates** - Search existing data in `data/companies.json`
 2. **Gather information**:
    - Company name
    - Website (preferably careers page)
    - LinkedIn company page
    - Industry/sector
-   - Country and city
 3. **Find evidence** of Iranian employees:
    - LinkedIn profiles showing Iranian employees
    - Personal experience or testimonials
    - Public company statements
-4. **Add to data file** - Update `/data/companies.json`
+4. **🎯 ONLY UPDATE JSON** - Add to `/data/companies.json` (country pages auto-generate!)
 5. **Submit pull request** with detailed evidence
 
-### Using Issue Templates
+### 🤖 What Happens Next
 
-For adding companies, please use our [Add Company template](.github/ISSUE_TEMPLATE/add_company.md) which guides you through all required information.
+When you submit a PR that modifies `companies.json`:
 
-## 🔄 Updating Information
+✅ **Automatic Validation** - JSON structure and data integrity checked  
+✅ **Auto-Generation** - All country pages regenerated from your data  
+✅ **Link Validation** - URLs checked for accessibility (optional)  
+✅ **Stats Update** - Company counts and statistics updated  
+✅ **Auto-Commit** - Generated pages committed automatically
 
-### Common Updates
-
-- Broken or changed URLs
-- Company acquisitions/mergers
-- Industry reclassification
-- Changed visa sponsorship policies
-
-### Process
-
-1. Use the [Update Company template](.github/ISSUE_TEMPLATE/update_company.md)
-2. Provide evidence for the change
-3. Submit a pull request with the updates
+**You don't need to touch any `.md` files!** 🎉
 
 ## 📊 Data Format Guidelines
 
@@ -147,9 +143,47 @@ Use one of these standardized categories:
 ### JSON Formatting
 
 - Use 2-space indentation
-- Maintain alphabetical order by country, then by company name
+- Companies are automatically sorted by name within each country
 - Ensure valid JSON syntax
 - No trailing commas
+
+## 🤖 Automated Workflow
+
+### How It Works
+
+```mermaid
+graph LR
+    A[Update companies.json] --> B[Submit PR]
+    B --> C[Automated Checks]
+    C --> D[PR Merged]
+    D --> E[GitHub Actions Triggered]
+    E --> F[Generate Country Pages]
+    F --> G[Update Statistics]
+    G --> H[Auto-Commit & Push]
+    H --> I[Documentation Updated!]
+```
+
+### Automated Features
+
+🔄 **Page Generation**: All country pages regenerated from JSON  
+📊 **Statistics**: Company counts and analytics updated  
+✅ **Validation**: JSON structure and data integrity verified  
+🔗 **Link Checking**: URLs validated (optional, doesn't block merge)  
+💬 **PR Comments**: Automatic status updates on your pull request  
+🏷️ **Categorization**: Companies automatically grouped by industry
+
+### Manual Generation (Optional)
+
+If you want to test locally before submitting:
+
+```bash
+# Install Node.js (if not already installed)
+# Then run:
+npm run generate-pages
+
+# Or directly:
+node scripts/generate-country-pages.js
+```
 
 ## ✅ Verification Requirements
 
@@ -171,142 +205,156 @@ Use one of these standardized categories:
 ### Prerequisites
 
 - Git
+- Node.js 14+ (for local testing - optional)
 - Text editor or IDE
-- `jq` (for JSON validation and manipulation)
+- `jq` (for JSON validation - optional)
 
-### Validation Tools
-
-#### JSON Validation
+### Available Scripts
 
 ```bash
-# Validate JSON syntax
-cat data/companies.json | jq . > /dev/null && echo "Valid JSON" || echo "Invalid JSON"
-
-# Pretty print and format
-cat data/companies.json | jq . > temp.json && mv temp.json data/companies.json
-```
-
-#### Link Checking
-
-```bash
-# Extract all URLs for manual checking
-cat data/companies.json | jq -r '.companies[][] | .website, .linkedin' | sort | uniq
+npm run generate-pages  # Generate all country pages
+npm run validate        # Validate JSON structure
+npm run stats          # Generate statistics
+npm run build          # Generate pages + validate
+npm run all-checks     # Run all validation scripts
 ```
 
 ### Testing Changes
 
-1. Validate JSON syntax
-2. Check that all required fields are present
-3. Verify URLs are accessible
-4. Ensure no duplicate entries
-
-## 📝 Style Guide
-
-### Commit Messages
-
-Use clear, descriptive commit messages:
-
-```
-Add: Spotify (Sweden) - Music Technology
-Update: Zalando website URL and LinkedIn
-Fix: Remove duplicate Booking.com entry
-Docs: Update contributing guidelines
-```
-
-### Branch Names
-
-Use descriptive branch names:
-
-```
-add-spotify-sweden
-update-zalando-info
-fix-duplicate-entries
-docs-contributing-update
-```
-
-### Pull Request Titles
-
-```
-[ADD] Company Name (Country) - Industry
-[UPDATE] Company Name - What changed
-[FIX] Description of fix
-[DOCS] Documentation update
-```
+1. Validate JSON syntax: `npm run validate`
+2. Generate pages locally: `npm run generate-pages`
+3. Check for duplicates and formatting
+4. Verify URLs are accessible
 
 ## 📤 Pull Request Process
 
 ### Before Submitting
 
-1. **Self-review** your changes
-2. **Test** JSON validity and formatting
-3. **Check** for duplicates
-4. **Gather** verification evidence
-5. **Update** any relevant documentation
+1. **Edit only** `data/companies.json`
+2. **Validate JSON** syntax (automated check will verify)
+3. **Check for duplicates** in existing data
+4. **Gather evidence** for verification
+5. **Use issue templates** for structured submissions
 
 ### Pull Request Content
 
 1. **Use our template** - Fill out all sections
 2. **Provide evidence** - Link to verification sources
-3. **Explain changes** - Describe what and why
-4. **Test results** - Confirm everything works
+3. **Explain changes** - Describe what companies you're adding/updating
+4. **JSON only** - Don't modify country pages (they auto-generate!)
 
-### Review Process
+### Automated Review Process
 
-1. **Automated checks** - JSON validation and formatting
-2. **Community review** - Other contributors may comment
-3. **Maintainer review** - Final verification and approval
-4. **Merge** - Changes integrated into main branch
+1. **🤖 Automated Checks**:
+   - JSON validation and formatting
+   - Duplicate detection
+   - Required fields verification
+2. **👥 Community Review** - Other contributors may comment
+3. **✅ Maintainer Approval** - Final verification and approval
+4. **🚀 Auto-Merge & Update** - Pages generated automatically
 
 ### After Merge
 
-- Your changes go live immediately
-- Thank you message and contributor recognition
-- Consider watching the repo for future collaboration
+- **🤖 Automated Updates**: All country pages regenerated
+- **💬 PR Comment**: Automatic status update with statistics
+- **📊 Live Changes**: Updates appear immediately in repository
+- **🏆 Recognition**: Contributor credit and community appreciation
 
 ## 🎯 Contribution Guidelines
+
+### What We Look For ✅
+
+- Verified companies with Iranian employees
+- Active career pages and current information
+- Clear evidence of visa sponsorship
+- Proper JSON formatting
+- Professional and respectful contributions
+
+### What We Don't Accept ❌
+
+- Unverified or speculative entries
+- Recruitment agencies (unless hiring directly)
+- Companies with discriminatory practices
+- Spam or promotional content
+- Direct edits to country pages (use JSON only!)
 
 ### Quality Standards
 
 - **Accuracy**: All information must be verified and current
 - **Completeness**: Include all required fields and evidence
-- **Consistency**: Follow established formats and conventions
+- **Consistency**: Follow established formats and JSON structure
 - **Respect**: Maintain professional and respectful communication
 
-### What We Look For
+## 📝 Commit Message Examples
 
-- ✅ Verified companies with Iranian employees
-- ✅ Active career pages and current information
-- ✅ Clear evidence of visa sponsorship
-- ✅ Professional and respectful contributions
+**For JSON changes:**
 
-### What We Don't Accept
+```
+Add: Spotify (Sweden) - Music Technology
+Update: Zalando website URL and LinkedIn
+Fix: Remove duplicate Booking.com entry
+Update: Correct industry for DataGuard
+```
 
-- ❌ Unverified or speculative entries
-- ❌ Recruitment agencies (unless hiring directly)
-- ❌ Companies with discriminatory practices
-- ❌ Spam or promotional content
+**Branch names:**
+
+```
+add-spotify-sweden
+update-company-urls
+fix-duplicate-entries
+correct-industry-categories
+```
 
 ## 🏆 Recognition
 
-Contributors are recognized in several ways:
+Contributors are recognized through:
 
-- GitHub contributor status
-- Mentions in release notes
-- Community appreciation
-- Professional network building
+- GitHub contributor status and commit history
+- Mentions in release notes and changelog
+- Community appreciation and networking opportunities
+- Professional portfolio building
 
-## ❓ Questions?
+## ❓ Getting Help
 
-- 💬 **GitHub Discussions**: For general questions and community chat
-- 🐛 **Issues**: For specific problems or suggestions
-- 📧 **Direct Contact**: Create a private issue for sensitive matters
+- **💬 Discussions**: [GitHub Discussions](../../discussions) for questions
+- **🐛 Issues**: Report problems using our templates
+- **📧 Contact**: Create an issue for sensitive matters
+- **📚 Resources**:
+  - [JSON Formatter](https://jsonformatter.org/)
+  - [LinkedIn Company Search](https://www.linkedin.com/search/results/companies/)
 
-## 📚 Resources
+## 🚀 Advanced Features
 
-- [JSON Formatter](https://jsonformatter.org/) - Validate and format JSON
-- [LinkedIn Company Search](https://www.linkedin.com/search/results/companies/) - Find company pages
-- [Contributor Covenant](https://www.contributor-covenant.org/) - Code of conduct reference
+### Country Page Templates
+
+Each country gets appropriate details based on company count:
+
+- **Detailed pages** (10+ companies): Full market insights, salary ranges, visa info
+- **Standard pages** (3-9 companies): Basic info with company listings
+- **Simple pages** (1-2 companies): Minimal format with essentials
+
+### Automatic Categorization
+
+Companies are automatically:
+
+- ✅ Grouped by industry
+- ✅ Sorted alphabetically within groups
+- ✅ Formatted consistently
+- ✅ Cross-referenced with market insights
+
+### Statistics Generation
+
+Updated automatically:
+
+- 📊 Total companies per country
+- 🏭 Top industries by country
+- 📈 Growth trends and insights
+- 🔗 Data completeness metrics
 
 ---
 
-Thank you for helping make career opportunities more accessible for Iranian professionals worldwide! 🌟
+## 🌟 Thank You!
+
+Thank you for helping make career opportunities more accessible for Iranian professionals worldwide!
+
+**Remember**: Just update the JSON file - we handle the rest! 🤖✨

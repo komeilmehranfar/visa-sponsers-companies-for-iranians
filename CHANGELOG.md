@@ -7,11 +7,53 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
+### 🤖 Added - Automated Country Page Generation
 
-- **Individual Country Pages**: Each country now has a dedicated markdown page with detailed company listings
-- **Enhanced Navigation**: Easy browsing with country-specific pages including market insights and visa information
-- **Country Index**: Comprehensive index page for all countries with quick navigation
+- **Dynamic Page Generation**: Country pages now automatically generated from `companies.json`
+
+  - Node.js generation script (`generate-country-pages.js`)
+  - Detailed templates for major countries (Netherlands, Germany, Sweden, UK)
+  - Simple templates for smaller countries
+  - Automatic industry categorization and sorting
+  - Market insights, salary ranges, and visa information
+
+- **GitHub Actions Automation**: Fully automated workflow for contributors
+
+  - Auto-triggers on `companies.json` changes
+  - JSON validation and structure verification
+  - Country page regeneration from data
+  - Automatic commits with generated pages
+  - PR comments with update status
+  - Link validation and statistics generation
+
+- **Enhanced Contributor Experience**:
+
+  - Contributors only edit `companies.json` - no markdown files needed!
+  - Automated data validation and formatting
+  - Real-time feedback via GitHub Actions
+  - Consistent page formatting and structure
+  - Reduced manual maintenance overhead
+
+- **Developer Tools**:
+  - `package.json` with npm scripts for local development
+  - `generate-all.sh` script for complete regeneration
+  - Local testing and validation workflows
+  - Automated statistics and insights generation
+
+### Changed
+
+- **Contribution Workflow**: Streamlined to JSON-only updates
+- **Documentation**: Updated README and CONTRIBUTING.md for automated workflow
+- **Templates**: Enhanced with country-specific metadata and insights
+- **Validation**: Extended JSON validation for new automated requirements
+
+### Benefits
+
+- **🚀 Faster Contributions**: Contributors focus only on data, not formatting
+- **✅ Consistency**: All pages follow identical structure and styling
+- **🔄 Automation**: No manual page updates needed
+- **📊 Accuracy**: Automated statistics and metadata updates
+- **🛠️ Maintainability**: Single source of truth in JSON format
 
 ## [2.0.0] - 2024-01-01
 
@@ -73,8 +115,8 @@ This release represents a complete overhaul of the repository structure to make 
 
 ### Technical Details
 
-- Total Companies: 107
-- Countries Covered: 17
+- Total Companies: 108
+- Countries Covered: 14
 - Data Format: JSON with metadata
 - Validation: Automated scripts for data integrity
 - Backup: Automatic backups for data formatting operations
@@ -105,6 +147,22 @@ When making contributions:
 4. Include relevant details and impact
 
 ## Migration Notes
+
+### From v2.0.0 to v2.1.0 (Automated System)
+
+**For Contributors:**
+
+- **Simplified Workflow**: Only edit `data/companies.json`
+- **No Markdown**: Country pages generate automatically
+- **Instant Feedback**: GitHub Actions provide immediate validation
+- **Consistent Results**: All pages follow same professional format
+
+**For Maintainers:**
+
+- **Reduced Overhead**: No manual page updates needed
+- **Quality Control**: Automated validation and formatting
+- **Scalable**: Easy to add new countries and companies
+- **Consistent**: Unified templates and styling
 
 ### From v1.0.0 to v2.0.0
 

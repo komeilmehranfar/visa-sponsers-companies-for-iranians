@@ -149,7 +149,27 @@ cat data/companies.json | jq -r '.companies[][] | .website'
 
 ## 🤝 Contributing
 
+> **🤖 New Automated Workflow**: You only need to update `data/companies.json`! Country pages are automatically generated when your PR is merged.
+
 We welcome contributions from the community! Here are several ways you can help:
+
+### ⚡ Quick Contributing Process
+
+1. **📝 Edit Only JSON**: Modify `/data/companies.json` with new companies
+2. **✅ Submit PR**: Use our templates and provide evidence
+3. **🚀 Auto-Magic**: Country pages update automatically after merge!
+
+### 🤖 What Happens Automatically
+
+When you submit a PR that updates `companies.json`:
+
+- ✅ **JSON Validation**: Structure and data integrity checked
+- ✅ **Page Generation**: All country pages regenerated from your data
+- ✅ **Link Validation**: URLs checked for accessibility
+- ✅ **Statistics Update**: Company counts and analytics updated
+- ✅ **Auto-Commit**: Generated pages committed automatically
+
+**You don't need to edit any `.md` files!** Our GitHub Actions workflow handles everything.
 
 ### 🆕 Adding New Companies
 
@@ -157,21 +177,36 @@ We welcome contributions from the community! Here are several ways you can help:
 - **Verification**: Please provide evidence (LinkedIn profiles, testimonials, etc.)
 - **Information**: Include company name, website, LinkedIn, and industry
 
-### 📝 How to Contribute
+### 📝 Step-by-Step Guide
 
 1. **Fork** this repository
-2. **Add** your company to `/data/companies.json`
-3. **Validate** the JSON format using our scripts
-4. **Submit** a pull request with detailed information
-5. **Include** verification evidence in your PR description
+2. **Edit** `/data/companies.json` only (don't touch country pages!)
+3. **Validate** JSON format (optional - automated checks will verify)
+4. **Submit** pull request with detailed evidence
+5. **Wait for magic** ✨ - Pages auto-generate after merge!
 
 ### 📋 Contribution Templates
 
-Use our issue templates for:
+Use our issue templates for structured submissions:
 
-- 🏢 [Add New Company](/.github/issue_template/add_company.md)
-- 🔄 [Update Company Info](/.github/issue_template/update_company.md)
-- 🐛 [Report Issue](/.github/issue_template/bug_report.md)
+- 🏢 [Add New Company](/.github/ISSUE_TEMPLATE/add_company.md)
+- 🔄 [Update Company Info](/.github/ISSUE_TEMPLATE/update_company.md)
+- 🐛 [Report Issue](/.github/ISSUE_TEMPLATE/bug_report.md)
+
+### 🛠️ Local Development (Optional)
+
+Want to test page generation locally?
+
+```bash
+# Install Node.js, then run:
+npm run generate-pages
+
+# Validate your changes:
+npm run validate
+
+# Run all checks:
+npm run all-checks
+```
 
 ## 📜 Guidelines
 
@@ -189,14 +224,25 @@ Use our issue templates for:
 - Outdated or inactive companies
 - Duplicate entries
 
+### 🤖 Automated Quality Checks
+
+Our system automatically:
+
+- Validates JSON syntax and structure
+- Checks for required fields
+- Detects duplicate companies
+- Verifies URL formats
+- Generates consistent formatting
+- Updates statistics and metadata
+
 ## 🔍 Verification Process
 
-We strive to maintain accuracy through:
+We maintain accuracy through:
 
 - **Community verification**: Multiple sources confirm each entry
-- **Regular updates**: Quarterly review of all listings
-- **Evidence requirement**: Contributors must provide verification
 - **Automated validation**: Scripts check data integrity
+- **Evidence requirement**: Contributors must provide verification
+- **Regular updates**: Country pages regenerate automatically
 
 ## 📞 Getting Help
 
@@ -207,12 +253,12 @@ We strive to maintain accuracy through:
 
 ## 📊 Statistics & Analytics
 
-Want to contribute to analytics? We're building:
+Our automated system tracks:
 
-- 📈 Success rate tracking by company
-- 🏭 Industry trend analysis
+- 📈 Company count trends by country and industry
+- 🏭 Industry distribution and growth
 - 🌍 Geographic opportunity mapping
-- 💼 Skill demand insights
+- 🔗 Data completeness and quality metrics
 
 ## 🔄 Changelog
 

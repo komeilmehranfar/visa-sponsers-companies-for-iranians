@@ -1,0 +1,51 @@
+{
+  "name": "visa-sponsorship-companies-for-iranians",
+  "version": "2.1.0",
+  "description": "A curated list of companies that hire Iranian professionals and provide visa sponsorship",
+  "main": "scripts/generate-country-pages.js",
+  "scripts": {
+    "generate-pages": "node scripts/generate-country-pages.js",
+    "validate": "bash scripts/validate_json.sh",
+    "format": "bash scripts/format_data.sh",
+    "stats": "bash scripts/generate_stats.sh",
+    "check-links": "bash scripts/check_links.sh",
+    "all-checks": "bash scripts/run_all_checks.sh",
+    "build": "npm run generate-pages && npm run validate",
+    "dev": "npm run generate-pages && echo 'Pages generated successfully!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians.git"
+  },
+  "keywords": [
+    "visa-sponsorship",
+    "iranian-professionals",
+    "job-search",
+    "immigration",
+    "tech-jobs",
+    "europe-jobs",
+    "fintech",
+    "startups"
+  ],
+  "author": "Komeil Mehranfar and Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians/issues"
+  },
+  "homepage": "https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "files": [
+    "data/companies.json",
+    "docs/",
+    "scripts/",
+    "README.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ]
+}
