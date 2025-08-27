@@ -248,6 +248,12 @@ The Netherlands is one of the most Iranian-friendly countries in Europe with a s
 - **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/leaseweb/jobs/)
 - **Overview**: Web Hosting & Cloud Services company
 
+#### **bitvavo**
+- **Industry**: Financial Services
+- **Website**: [www.leaseweb.com/career](https://www.leaseweb.com/career)
+- **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/bitvavocom/jobs)
+- **Overview**: Financial Services company
+
 ---
 
 ---
