@@ -15,7 +15,6 @@ _A curated list of companies that hire Iranian professionals and provide visa sp
 - [About](#about)
 - [Quick Stats](#quick-stats)
 - [Browse Companies](#browse-companies)
-- [Data Format](#data-format)
 - [Contributing](#contributing)
 - [License](#license)
 - [Disclaimer](#disclaimer)
@@ -115,98 +114,30 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 ### 🗺️ [**Browse All Countries →**](docs/countries.md)
 
-## 📁 Data Format
-
-All company data is stored in structured JSON format at [`/data/companies.json`](./data/companies.json) for easy programmatic access:
-
-```json
-{
-  "companies": {
-    "netherlands": [
-      {
-        "name": "Company Name",
-        "website": "https://example.com/careers",
-        "linkedin": "https://linkedin.com/company/example",
-        "industry": "Technology"
-      }
-    ]
-  }
-}
-```
-
-### Using the Data
-
-```bash
-# Parse companies by country
-cat data/companies.json | jq '.companies.netherlands'
-
-# Filter by industry
-cat data/companies.json | jq '.companies.germany[] | select(.industry | contains("FinTech"))'
-
-# Get all company websites
-cat data/companies.json | jq -r '.companies[][] | .website'
-```
-
 ## 🤝 Contributing
 
-> **🤖 New Automated Workflow**: You only need to update `data/companies.json`! Country pages are automatically generated when your PR is merged.
-
-We welcome contributions from the community! Here are several ways you can help:
-
-### ⚡ Quick Contributing Process
-
-1. **📝 Edit Only JSON**: Modify `/data/companies.json` with new companies
-2. **✅ Submit PR**: Use our templates and provide evidence
-3. **🚀 Auto-Magic**: Country pages update automatically after merge!
-
-### 🤖 What Happens Automatically
-
-When you submit a PR that updates `companies.json`:
-
-- ✅ **JSON Validation**: Structure and data integrity checked
-- ✅ **Page Generation**: All country pages regenerated from your data
-- ✅ **Link Validation**: URLs checked for accessibility
-- ✅ **Statistics Update**: Company counts and analytics updated
-- ✅ **Auto-Commit**: Generated pages committed automatically
-
-**You don't need to edit any `.md` files!** Our GitHub Actions workflow handles everything.
+We welcome contributions from the community! Help us grow this database by adding companies that have hired Iranian professionals.
 
 ### 🆕 Adding New Companies
 
-- **Requirements**: Company must have hired at least one Iranian professional
-- **Verification**: Please provide evidence (LinkedIn profiles, testimonials, etc.)
-- **Information**: Include company name, website, LinkedIn, and industry
+**Requirements:**
 
-### 📝 Step-by-Step Guide
+- Company must have hired at least one Iranian professional
+- Please provide evidence (LinkedIn profiles, testimonials, etc.)
+- Include company name, website, LinkedIn, and industry
+
+### 📝 How to Contribute
 
 1. **Fork** this repository
-2. **Edit** `/data/companies.json` only (don't touch country pages!)
-3. **Validate** JSON format (optional - automated checks will verify)
-4. **Submit** pull request with detailed evidence
-5. **Wait for magic** ✨ - Pages auto-generate after merge!
+2. **Edit** the `/data/companies.json` file to add your company
+3. **Submit** a pull request with evidence of Iranian hires
+4. **Wait for review** - we'll verify and merge approved companies
 
-### 📋 Contribution Templates
-
-Use our issue templates for structured submissions:
+### 📋 Contribution Options
 
 - 🏢 [Add New Company](/.github/ISSUE_TEMPLATE/add_company.md)
 - 🔄 [Update Company Info](/.github/ISSUE_TEMPLATE/update_company.md)
 - 🐛 [Report Issue](/.github/ISSUE_TEMPLATE/bug_report.md)
-
-### 🛠️ Local Development (Optional)
-
-Want to test page generation locally?
-
-```bash
-# Install Node.js, then run:
-npm run generate-pages
-
-# Validate your changes:
-npm run validate
-
-# Run all checks:
-npm run all-checks
-```
 
 ## 📜 Guidelines
 
@@ -224,41 +155,11 @@ npm run all-checks
 - Outdated or inactive companies
 - Duplicate entries
 
-### 🤖 Automated Quality Checks
-
-Our system automatically:
-
-- Validates JSON syntax and structure
-- Checks for required fields
-- Detects duplicate companies
-- Verifies URL formats
-- Generates consistent formatting
-- Updates statistics and metadata
-
-## 🔍 Verification Process
-
-We maintain accuracy through:
-
-- **Community verification**: Multiple sources confirm each entry
-- **Automated validation**: Scripts check data integrity
-- **Evidence requirement**: Contributors must provide verification
-- **Regular updates**: Country pages regenerate automatically
-
 ## 📞 Getting Help
 
 - 💬 **Discussions**: Use GitHub Discussions for questions
 - 🐛 **Issues**: Report problems or suggest improvements
-- 📧 **Direct Contact**: Create an issue for sensitive matters
 - 🤝 **Community**: Join our growing network of Iranian professionals
-
-## 📊 Statistics & Analytics
-
-Our automated system tracks:
-
-- 📈 Company count trends by country and industry
-- 🏭 Industry distribution and growth
-- 🌍 Geographic opportunity mapping
-- 🔗 Data completeness and quality metrics
 
 ## 🔄 Changelog
 
