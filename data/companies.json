@@ -1,0 +1,687 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "last_updated": "2025-08-27",
+    "description": "Companies that provide visa sponsorship for Iranian professionals",
+    "total_companies": 108,
+    "countries": 14
+  },
+  "companies": {
+    "netherlands": [
+      {
+        "name": "DataChef",
+        "website": "https://datachef.co/",
+        "linkedin": "https://www.linkedin.com/company/datachefco/",
+        "industry": "Data & Analytics"
+      },
+      {
+        "name": "Leaseweb",
+        "website": "https://www.leaseweb.com/career",
+        "linkedin": "https://www.linkedin.com/company/leaseweb/jobs/",
+        "industry": "Web Hosting & Cloud Services"
+      },
+      {
+        "name": "DPGMedia",
+        "website": "https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg",
+        "linkedin": "https://www.linkedin.com/company/dpg-media-nl/jobs/",
+        "industry": "Media & Publishing"
+      },
+      {
+        "name": "IO Consultancy",
+        "website": "https://www.iodigital.com/nl/carriere",
+        "linkedin": "https://www.linkedin.com/company/iodigital-com/jobs/",
+        "industry": "Digital Consulting"
+      },
+      {
+        "name": "Touchtribe",
+        "website": "https://www.touchtribe.nl/en/about-us/careers",
+        "linkedin": "https://www.linkedin.com/company/touchtribe/",
+        "industry": "Digital Agency"
+      },
+      {
+        "name": "ING",
+        "website": "https://www.ing.jobs/global/careers.htm",
+        "linkedin": "https://www.linkedin.com/company/ing/jobs/",
+        "industry": "Banking & Finance"
+      },
+      {
+        "name": "StyleShoots",
+        "website": "https://styleshoots.com/",
+        "linkedin": "https://www.linkedin.com/company/styleshoots/jobs/",
+        "industry": "Photography Technology"
+      },
+      {
+        "name": "AIHR",
+        "website": "https://www.aihr.com/homepage/",
+        "linkedin": "https://www.linkedin.com/school/aihr/jobs/",
+        "industry": "HR Analytics & Education"
+      },
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      },
+      {
+        "name": "Mobiquity",
+        "website": "https://www.mobiquity.com/",
+        "linkedin": "https://www.linkedin.com/company/mobiquity-inc-europe/",
+        "industry": "Digital Consulting"
+      },
+      {
+        "name": "Backbase",
+        "website": "https://www.backbase.com/",
+        "linkedin": "https://www.linkedin.com/company/backbase/",
+        "industry": "Banking Technology"
+      },
+      {
+        "name": "Flow Traders",
+        "website": "https://www.flowtraders.com/",
+        "linkedin": "https://www.linkedin.com/company/flow-traders/jobs/",
+        "industry": "Financial Trading"
+      },
+      {
+        "name": "Farm21",
+        "website": "https://www.farm21.com/",
+        "linkedin": "https://www.linkedin.com/company/farm21/",
+        "industry": "AgTech"
+      },
+      {
+        "name": "JustEatTakeaway.com",
+        "website": "https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJVXealLU_xkcRja_At0z9AGY",
+        "linkedin": "https://www.linkedin.com/company/just-eat-takeaway-com/",
+        "industry": "Food Delivery"
+      },
+      {
+        "name": "Lunatech",
+        "website": "https://lunatech.com/",
+        "linkedin": "https://www.linkedin.com/company/lunatech-labs",
+        "industry": "Software Development"
+      },
+      {
+        "name": "Catawiki",
+        "website": "https://catawiki.careers",
+        "linkedin": "https://www.linkedin.com/company/catawiki/jobs/",
+        "industry": "Online Marketplace"
+      },
+      {
+        "name": "StudoCu",
+        "website": "https://jobs.studocu.com/",
+        "linkedin": "https://www.linkedin.com/company/studeersnel.nl/jobs/",
+        "industry": "EdTech"
+      },
+      {
+        "name": "Bunq",
+        "website": "https://www.bunq.com/",
+        "linkedin": "https://www.linkedin.com/company/bunq/jobs/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "NN",
+        "website": "https://www.nn-group.com/",
+        "linkedin": "https://www.linkedin.com/company/nn/jobs/",
+        "industry": "Insurance & Finance"
+      },
+      {
+        "name": "Nearfield Instruments",
+        "website": "http://www.nearfieldinstruments.com/",
+        "linkedin": "https://www.linkedin.com/company/nearfield-instruments-bv/jobs/",
+        "industry": "Scientific Instruments"
+      },
+      {
+        "name": "Code Nomads",
+        "website": "https://www.codenomads.nl/career/",
+        "linkedin": "https://www.linkedin.com/company/code-nomads/",
+        "industry": "Software Development"
+      },
+      {
+        "name": "Mollie",
+        "website": "https://www.mollie.com/",
+        "linkedin": "https://www.linkedin.com/company/molliepayments/jobs/",
+        "industry": "Payment Processing"
+      },
+      {
+        "name": "bol.com",
+        "website": "https://careers.bol.com/en/",
+        "linkedin": "https://www.linkedin.com/company/bol-com/jobs/",
+        "industry": "E-commerce"
+      },
+      {
+        "name": "Knab",
+        "website": "https://www.werkenbijknab.nl/en",
+        "linkedin": "https://www.linkedin.com/company/knab/jobs/",
+        "industry": "Banking"
+      },
+      {
+        "name": "ASML",
+        "website": "https://www.asml.com/en/careers/find-your-job?page=1&facets=vacancycountry%253dNetherlands&sortBy=date",
+        "linkedin": "https://www.linkedin.com/company/asml/jobs/",
+        "industry": "Semiconductor Equipment"
+      },
+      {
+        "name": "Company.info",
+        "website": "https://companyinfo.nl/en/",
+        "linkedin": "https://www.linkedin.com/company/company-info/jobs/",
+        "industry": "Business Intelligence"
+      },
+      {
+        "name": "Eurail",
+        "website": "https://www.eurail.com/en/careers",
+        "linkedin": "https://www.linkedin.com/company/eurail/",
+        "industry": "Travel & Transportation"
+      },
+      {
+        "name": "Picnic",
+        "website": "https://www.picnic.app/careers/all-jobs",
+        "linkedin": "https://www.linkedin.com/company/picnictechnologies/",
+        "industry": "Grocery Delivery"
+      },
+      {
+        "name": "Albelli",
+        "website": "https://apply.workable.com/albelli-photoboxgroup/",
+        "linkedin": "https://www.linkedin.com/company/albelli-photoboxgroup/",
+        "industry": "Photo Products"
+      },
+      {
+        "name": "AG5 Skills Management Software",
+        "website": "https://www.ag5.com",
+        "linkedin": "https://www.linkedin.com/company/ag5skillsintelligencesoftware",
+        "industry": "HR Technology"
+      },
+      {
+        "name": "dé VakantieDiscounter",
+        "website": "https://werkenbij.vakantiediscounter.nl",
+        "linkedin": "https://www.linkedin.com/company/vakantiediscounter",
+        "industry": "Travel & Tourism"
+      },
+      {
+        "name": "Adevinta",
+        "website": "https://www.adevinta.com/",
+        "linkedin": "https://www.linkedin.com/company/adevinta/",
+        "industry": "Online Classifieds"
+      },
+      {
+        "name": "Capgemini",
+        "website": "https://www.capgemini.com/",
+        "linkedin": "https://www.linkedin.com/company/capgemini/",
+        "industry": "Consulting & Technology"
+      },
+      {
+        "name": "Deloitte",
+        "website": "https://www.deloitte.com/",
+        "linkedin": "https://www.linkedin.com/company/deloitte/",
+        "industry": "Professional Services"
+      },
+      {
+        "name": "Booking.com",
+        "website": "https://www.booking.com/",
+        "linkedin": "https://www.linkedin.com/company/booking.com/",
+        "industry": "Travel & Hospitality"
+      },
+      {
+        "name": "DLL",
+        "website": "https://www.dllgroup.com/",
+        "linkedin": "https://www.linkedin.com/company/dllgroup/",
+        "industry": "Asset Finance"
+      },
+      {
+        "name": "Adyen",
+        "website": "https://www.adyen.com/",
+        "linkedin": "https://www.linkedin.com/company/adyen",
+        "industry": "Payment Technology"
+      }
+    ],
+    "turkey": [
+      {
+        "name": "Vodafone Türkiye",
+        "website": "https://www.vodafone.com.tr/",
+        "linkedin": "https://www.linkedin.com/company/vodafone/?originalSubdomain=tr",
+        "industry": "Telecommunications"
+      }
+    ],
+    "germany": [
+      {
+        "name": "Delivery Hero",
+        "website": "https://www.deliveryhero.com/",
+        "linkedin": "https://www.linkedin.com/company/delivery-hero-se/jobs/",
+        "industry": "Food Delivery"
+      },
+      {
+        "name": "Zalando",
+        "website": "https://en.zalando.de/",
+        "linkedin": "https://www.linkedin.com/company/zalando/jobs/",
+        "industry": "E-commerce Fashion"
+      },
+      {
+        "name": "Check24",
+        "website": "https://www.check24.de/",
+        "linkedin": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/",
+        "industry": "Comparison Platform"
+      },
+      {
+        "name": "Sportradar",
+        "website": "https://sportradar.com/",
+        "linkedin": "https://www.linkedin.com/company/sportradar/jobs/",
+        "industry": "Sports Technology"
+      },
+      {
+        "name": "HelloFresh",
+        "website": "https://www.hellofresh.com/",
+        "linkedin": "https://www.linkedin.com/company/hellofresh/jobs",
+        "industry": "Meal Kit Delivery"
+      },
+      {
+        "name": "Blinkist",
+        "website": "https://www.blinkist.com/en",
+        "linkedin": "https://www.linkedin.com/company/blinkist/jobs/",
+        "industry": "EdTech"
+      },
+      {
+        "name": "MBition",
+        "website": "https://mbition.io",
+        "linkedin": "https://www.linkedin.com/company/mbitiongmbh/jobs/",
+        "industry": "Automotive Technology"
+      },
+      {
+        "name": "Trade Republic",
+        "website": "https://traderepublic.com",
+        "linkedin": "https://www.linkedin.com/company/trade-republic/jobs/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "Holidu",
+        "website": "https://holidu.com",
+        "linkedin": "https://www.linkedin.com/company/holidu/jobs/",
+        "industry": "Travel Technology"
+      },
+      {
+        "name": "Taxdoo",
+        "website": "http://www.taxdoo.com/",
+        "linkedin": "https://www.linkedin.com/company/taxdoo/jobs/",
+        "industry": "Tax Technology"
+      },
+      {
+        "name": "Metro Markets",
+        "website": "https://www.metro-markets.de/",
+        "linkedin": "https://www.linkedin.com/company/metro-markets-gmbh/jobs",
+        "industry": "B2B Marketplace"
+      },
+      {
+        "name": "Vimcar",
+        "website": "https://vimcar.com/",
+        "linkedin": "https://www.linkedin.com/company/vimcar/jobs/",
+        "industry": "Fleet Management"
+      },
+      {
+        "name": "DataGuard",
+        "website": "https://www.dataguard.de/",
+        "linkedin": "https://www.linkedin.com/company/dataguard1/jobs/",
+        "industry": "Data Security"
+      },
+      {
+        "name": "Alasco",
+        "website": "https://www.alasco.de/",
+        "linkedin": "https://www.linkedin.com/company/alasco-software/jobs/",
+        "industry": "Construction Technology"
+      },
+      {
+        "name": "Sensory-Minds",
+        "website": "https://www.sensory-minds.com/",
+        "linkedin": "https://www.linkedin.com/company/sensory-minds/jobs/",
+        "industry": "AI & Machine Learning"
+      },
+      {
+        "name": "Energy Robotics",
+        "website": "https://www.energy-robotics.com/",
+        "linkedin": "https://www.linkedin.com/company/energy-robotics/jobs/",
+        "industry": "Robotics"
+      },
+      {
+        "name": "Appsfactory",
+        "website": "https://appsfactory.de/en/",
+        "linkedin": "https://www.linkedin.com/company/appsfactory-gmbh/",
+        "industry": "Mobile App Development"
+      },
+      {
+        "name": "Sixt",
+        "website": "https://www.sixt.com/",
+        "linkedin": "https://www.linkedin.com/company/sixt/",
+        "industry": "Car Rental"
+      },
+      {
+        "name": "OneFootball",
+        "website": "https://onefootball.com/en/home",
+        "linkedin": "https://www.linkedin.com/company/onefootball/",
+        "industry": "Sports Media"
+      },
+      {
+        "name": "OWWN",
+        "website": "https://www.owwn.com/en",
+        "linkedin": "https://www.linkedin.com/company/owwn-gmbh/",
+        "industry": "Real Estate Technology"
+      },
+      {
+        "name": "Personio",
+        "website": "https://www.personio.com/",
+        "linkedin": "https://www.linkedin.com/company/personio/",
+        "industry": "HR Technology"
+      },
+      {
+        "name": "JustEatTakeaway.com",
+        "website": "https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany",
+        "linkedin": "https://www.linkedin.com/company/just-eat-takeaway-com/",
+        "industry": "Food Delivery"
+      },
+      {
+        "name": "Solvians",
+        "website": "https://www.solvians.com/",
+        "linkedin": "https://www.linkedin.com/company/solvians-it-solutions-gmbh/",
+        "industry": "IT Solutions"
+      },
+      {
+        "name": "Babbel",
+        "website": "https://www.babbel.com",
+        "linkedin": "https://www.linkedin.com/company/babbel-com",
+        "industry": "Language Learning"
+      },
+      {
+        "name": "Adjust GmbH",
+        "website": "https://www.adjust.com/",
+        "linkedin": "https://www.linkedin.com/company/adjustcom",
+        "industry": "Mobile Analytics"
+      },
+      {
+        "name": "Gameforge",
+        "website": "https://gameforge.com",
+        "linkedin": "https://www.linkedin.com/company/gameforge",
+        "industry": "Gaming"
+      },
+      {
+        "name": "The Unbelievable Machine",
+        "website": "https://unbelievable-machine.com/",
+        "linkedin": "https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/",
+        "industry": "Digital Agency"
+      },
+      {
+        "name": "Scout24 SE",
+        "website": "https://www.scout24.com/",
+        "linkedin": "https://www.linkedin.com/company/scout24-group/",
+        "industry": "Online Classifieds"
+      },
+      {
+        "name": "Mercedes-Benz Leasing Deutschland",
+        "website": "https://www.mercedes-benz.de/passengercars/finance/financing-leasing.html",
+        "linkedin": "https://www.linkedin.com/company/mercedes-benz-leasing-deutschland",
+        "industry": "Automotive Finance"
+      },
+      {
+        "name": "JITpay™ Group",
+        "website": "https://www.jitpay.eu/en/",
+        "linkedin": "https://www.linkedin.com/company/jitpay-gmbh/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "Amadeus",
+        "website": "https://amadeus.com/en",
+        "linkedin": "https://www.linkedin.com/company/amadeus/",
+        "industry": "Travel Technology"
+      },
+      {
+        "name": "Media.Monks",
+        "website": "https://media.monks.com/",
+        "linkedin": "https://www.linkedin.com/company/mediamonks/",
+        "industry": "Digital Marketing"
+      },
+      {
+        "name": "Eurowings Digital",
+        "website": "https://eurowings-digital.de/",
+        "linkedin": "https://www.linkedin.com/company/eurowings-digital-gmbh/",
+        "industry": "Airline Technology"
+      }
+    ],
+    "sweden": [
+      {
+        "name": "Digital Route AB",
+        "website": "https://www.digitalroute.com/careers/",
+        "linkedin": "https://www.linkedin.com/company/digital-route/jobs/",
+        "industry": "Usage Intelligence"
+      },
+      {
+        "name": "LeoVegas",
+        "website": "https://leovegasgroup.com/careers/",
+        "linkedin": "https://www.linkedin.com/company/leovegasgroup/jobs/",
+        "industry": "Online Gaming"
+      },
+      {
+        "name": "Soltia AB",
+        "website": "https://www.soltia.se/",
+        "linkedin": "https://www.linkedin.com/company/soltiaab/jobs/",
+        "industry": "Technology Consulting"
+      },
+      {
+        "name": "Accedo",
+        "website": "https://www.accedo.tv/",
+        "linkedin": "https://www.linkedin.com/company/accedo-tv/jobs/",
+        "industry": "Video Technology"
+      },
+      {
+        "name": "DoWhile",
+        "website": "https://dowhile.se/",
+        "linkedin": "https://www.linkedin.com/company/dowhile-consulting-scandinavia-ab/jobs/",
+        "industry": "Software Consulting"
+      },
+      {
+        "name": "Epidemic Sound",
+        "website": "https://www.epidemicsound.com/",
+        "linkedin": "https://www.linkedin.com/company/epidemic-sound/jobs/",
+        "industry": "Music Technology"
+      },
+      {
+        "name": "King",
+        "website": "https://www.king.com/",
+        "linkedin": "https://www.linkedin.com/company/king/jobs/",
+        "industry": "Gaming"
+      },
+      {
+        "name": "Klarna",
+        "website": "https://www.klarna.com/careers/",
+        "linkedin": "https://www.linkedin.com/company/klarna/jobs/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      },
+      {
+        "name": "Rebtel",
+        "website": "https://www.rebtel.com/en/jobs/",
+        "linkedin": "https://www.linkedin.com/company/rebtel/jobs",
+        "industry": "Telecommunications"
+      },
+      {
+        "name": "Shortcut",
+        "website": "https://shortcut.io/sweden/",
+        "linkedin": "https://www.linkedin.com/company/shortcut-as/jobs/",
+        "industry": "Software Development"
+      },
+      {
+        "name": "Spotify",
+        "website": "https://open.spotify.com/",
+        "linkedin": "https://www.linkedin.com/company/spotify/jobs/",
+        "industry": "Music Streaming"
+      },
+      {
+        "name": "Tele2",
+        "website": "https://www.tele2.se/",
+        "linkedin": "https://www.linkedin.com/company/tele2/jobs/",
+        "industry": "Telecommunications"
+      },
+      {
+        "name": "TrueCaller",
+        "website": "https://www.truecaller.com/",
+        "linkedin": "https://www.linkedin.com/company/truecaller/jobs/",
+        "industry": "Mobile Technology"
+      },
+      {
+        "name": "Segula Technologies",
+        "website": "https://sverige.segulatechnologies.com/en/",
+        "linkedin": "https://www.linkedin.com/company/segula-technologies/",
+        "industry": "Engineering Services"
+      },
+      {
+        "name": "Nexer Group",
+        "website": "https://nexergroup.teamtailor.com/",
+        "linkedin": "https://www.linkedin.com/company/nexer-group/",
+        "industry": "Digital Consulting"
+      }
+    ],
+    "england": [
+      {
+        "name": "Geeks LTD",
+        "website": "https://www.geeks.ltd.uk/",
+        "linkedin": "https://www.linkedin.com/company/geeks-ltd/jobs/",
+        "industry": "Technology Services"
+      },
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      },
+      {
+        "name": "Unilever",
+        "website": "https://careers.unilever.com/",
+        "linkedin": "https://www.linkedin.com/company/unilever/jobs/",
+        "industry": "Consumer Goods"
+      },
+      {
+        "name": "Wise",
+        "website": "https://www.wise.com",
+        "linkedin": "https://www.linkedin.com/company/wiseaccount/jobs/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "Jaja Finance",
+        "website": "https://jaja.co.uk/",
+        "linkedin": "https://www.linkedin.com/company/jaja-finance/",
+        "industry": "FinTech"
+      },
+      {
+        "name": "Monzo",
+        "website": "https://monzo.com/careers/",
+        "linkedin": "https://www.linkedin.com/company/monzo-bank/jobs/",
+        "industry": "Digital Banking"
+      },
+      {
+        "name": "Havas",
+        "website": "https://www.havas.com/who-we-are/our-careers/",
+        "linkedin": "https://www.linkedin.com/company/havas/jobs/",
+        "industry": "Advertising"
+      },
+      {
+        "name": "Vestiaire Collective",
+        "website": "https://www.vestiairecollective.com/journal/join-the-team/",
+        "linkedin": "https://www.linkedin.com/company/vestiaireco/jobs/",
+        "industry": "Fashion Resale"
+      }
+    ],
+    "france": [
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      }
+    ],
+    "norway": [
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      },
+      {
+        "name": "Shortcut",
+        "website": "https://shortcut.io/norway/",
+        "linkedin": "https://www.linkedin.com/company/shortcut-as/jobs/",
+        "industry": "Software Development"
+      }
+    ],
+    "finland": [
+      {
+        "name": "Oneflow",
+        "website": "https://oneflow.com/",
+        "linkedin": "https://www.linkedin.com/company/oneflowcom/jobs/",
+        "industry": "Contract Management"
+      },
+      {
+        "name": "RELEX Solutions",
+        "website": "https://www.relexsolutions.com/",
+        "linkedin": "https://www.linkedin.com/company/relexsolutions/jobs/",
+        "industry": "Supply Chain Optimization"
+      }
+    ],
+    "denmark": [
+      {
+        "name": "Shortcut",
+        "website": "https://shortcut.io/denmark/",
+        "linkedin": "https://www.linkedin.com/company/shortcut-as/jobs/",
+        "industry": "Software Development"
+      }
+    ],
+    "new_zealand": [
+      {
+        "name": "Vista",
+        "website": "https://cloud.vista.co/",
+        "linkedin": "https://www.linkedin.com/company/vista-entertainment-solutions/jobs/",
+        "industry": "Entertainment Technology"
+      }
+    ],
+    "italy": [
+      {
+        "name": "BendingSpoons",
+        "website": "https://bendingspoons.com",
+        "linkedin": "https://www.linkedin.com/company/bendingspoons/jobs/",
+        "industry": "Mobile Apps"
+      },
+      {
+        "name": "Harpa Italia",
+        "website": "https://www.harpaitalia.it/",
+        "linkedin": "https://www.linkedin.com/company/harpa-italia-s.r.l.",
+        "industry": "Technology Consulting"
+      }
+    ],
+    "estonia": [
+      {
+        "name": "Wise",
+        "website": "https://www.wise.com",
+        "linkedin": "https://www.linkedin.com/company/wiseaccount/jobs/",
+        "industry": "FinTech"
+      }
+    ],
+    "austria": [
+      {
+        "name": "Journi",
+        "website": "https://journiapp.com",
+        "linkedin": "https://www.linkedin.com/company/journiapp/jobs/",
+        "industry": "Travel Technology"
+      },
+      {
+        "name": "ChargePoint",
+        "website": "https://www.chargepoint.com/about/opportunities",
+        "linkedin": "https://www.linkedin.com/company/chargepoint/jobs/",
+        "industry": "Electric Vehicle Charging"
+      }
+    ],
+    "spain": [
+      {
+        "name": "Metro Markets",
+        "website": "https://www.metro-markets.de/",
+        "linkedin": "https://www.linkedin.com/company/metro-markets-gmbh/jobs",
+        "industry": "B2B Marketplace"
+      }
+    ]
+  }
+}

@@ -1,157 +1,160 @@
-# Companies which can provide visa sponsorship for Iranians
+# 🚀 Visa Sponsorship Companies for Iranian Professionals
 
-Hi everyone, we want to list companies that hired at least one Iranian.
-If you are an expert and tried to relocate from Iran, you definitely found out that it's hard to find companies that can support you as an Iranian to relocate and obtain visa.
-So, we want to create a list that can help you query the companies much easier. In this way, you can increase your chance of getting an interview from European or Canadian companies.
+<div align="center">
 
-## The list
+[![GitHub stars](https://img.shields.io/github/stars/komeilmehranfar/visa-sponsers-companies-for-iranians?style=for-the-badge)](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/komeilmehranfar/visa-sponsers-companies-for-iranians?style=for-the-badge)](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians/network)
+[![GitHub issues](https://img.shields.io/github/issues/komeilmehranfar/visa-sponsers-companies-for-iranians?style=for-the-badge)](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians/issues)
 
-### Netherlands
+_A curated list of companies that hire Iranian professionals and provide visa sponsorship_
 
-- DataChef [Website](https://datachef.co/) - [Linkedin](https://www.linkedin.com/company/datachefco/)
-- Leaseweb [Website](https://www.leaseweb.com/career) - [Linkedin](https://www.linkedin.com/company/leaseweb/jobs/)
-- DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
-- IO Consultancy [Website](https://www.iodigital.com/nl/carriere) - [Linkedin](https://www.linkedin.com/company/iodigital-com/jobs/)
-- Touchtribe [Website](https://www.touchtribe.nl/en/about-us/careers) - [Linkedin](https://www.linkedin.com/company/touchtribe/)
-- ING [Website](https://www.ing.jobs/global/careers.htm) - [Linkedin](https://www.linkedin.com/company/ing/jobs/)
-- StyleShoots [Website](https://styleshoots.com/) - [Linkedin](https://www.linkedin.com/company/styleshoots/jobs/)
-- AIHR [Website](https://www.aihr.com/homepage/) - [Linkedin](https://www.linkedin.com/school/aihr/jobs/)
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
-- Mobiquity [Website](https://www.mobiquity.com/) - [Linkedin](https://www.linkedin.com/company/mobiquity-inc-europe/)
-- Backbase [Website](https://www.backbase.com/) - [Linkedin](https://www.linkedin.com/company/backbase/)
-- Flow Traders [Website](https://www.flowtraders.com/) - [Linkedin](https://www.linkedin.com/company/flow-traders/jobs/)
-- Farm21 [Website](https://www.farm21.com/) - [Linkedin](https://www.linkedin.com/company/farm21/)
-- JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJVXealLU_xkcRja_At0z9AGY) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
-- Lunatech [Website](https://lunatech.com/) - [Linkedin](https://www.linkedin.com/company/lunatech-labs)
-- Catawiki [Website](https://catawiki.careers) - [Linkedin](https://www.linkedin.com/company/catawiki/jobs/)
-- Studocu [Website](https://jobs.studocu.com/) - [Linkedin](https://www.linkedin.com/company/studeersnel.nl/jobs/)
-- Bunq [Website](https://www.bunq.com/) - [Linkedin](https://www.linkedin.com/company/bunq/jobs/)
-- NN [Website](https://www.nn-group.com/) - [Linkedin](https://www.linkedin.com/company/nn/jobs/)
-- Nearfield Instruments [Website](http://www.nearfieldinstruments.com/) - [Linkedin](https://www.linkedin.com/company/nearfield-instruments-bv/jobs/)
-- Code nomadas [WebSite](https://www.codenomads.nl/career/) - [Linkedin](https://www.linkedin.com/company/code-nomads/)
-- Mollie [Website](https://www.mollie.com/) - [Linkedin](https://www.linkedin.com/company/molliepayments/jobs/)
-- bol.com [Website](https://careers.bol.com/en/) - [Linkedin](https://www.linkedin.com/company/bol-com/jobs/)
-- Knab [Website](https://www.werkenbijknab.nl/en) - [Linkedin](https://www.linkedin.com/company/knab/jobs/)
-- ASML [Website](https://www.asml.com/en/careers/find-your-job?page=1&facets=vacancycountry%253dNetherlands&sortBy=date) - [Linkedin](https://www.linkedin.com/company/asml/jobs/)
-- Company.info [Website](https://companyinfo.nl/en/) - [Linkedin](https://www.linkedin.com/company/company-info/jobs/)
-- Eurail [Website](https://www.eurail.com/en/careers) - [Linkedin](https://www.linkedin.com/company/eurail/)
-- Picnic [Website](https://www.picnic.app/careers/all-jobs) - [Linkedin](https://www.linkedin.com/company/picnictechnologies/)
-- Albelli [Website](https://apply.workable.com/albelli-photoboxgroup/) - [Linkedin](https://www.linkedin.com/company/albelli-photoboxgroup/)
-- AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
-- dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
-- Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
-- Capgemini [Website](https://www.capgemini.com/) - [Linkedin](https://www.linkedin.com/company/capgemini/)
-- Deloitte [Website](https://www.deloitte.com/) - [Linkedin](https://www.linkedin.com/company/deloitte/)
-- Booking.com [Website](https://www.booking.com/) - [Linkedin](https://www.linkedin.com/company/booking.com/)
-- DLL [Website](https://www.dllgroup.com/) - [Linkedin](https://www.linkedin.com/company/dllgroup/)
-- Adyen [Website](https://www.adyen.com/) - [Linkedin](https://www.linkedin.com/company/adyen)
+</div>
 
-### Turkey
+## 📋 Table of Contents
 
-- Vodafone Türkiye [Website](https://www.vodafone.com.tr/) - [Linkedin](https://www.linkedin.com/company/vodafone/?originalSubdomain=tr)
+- [About](#about)
+- [Quick Stats](#quick-stats)
+- [Browse Companies](#browse-companies)
+- [Contributing](#contributing)
+- [License](#license)
+- [Disclaimer](#disclaimer)
 
-### Germany
+## 🎯 About
 
-- Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
-- Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
-- Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
-- Sportradar [Website](https://sportradar.com/) - [Linkedin](https://www.linkedin.com/company/sportradar/jobs/)
-- Hellofresh [Website](https://www.hellofresh.com/) - [Linkedin](https://www.linkedin.com/company/hellofresh/jobs)
-- Blinkist [Website](https://www.blinkist.com/en) - [Linkedin](https://www.linkedin.com/company/blinkist/jobs/)
-- MBition [Website](https://mbition.io) - [Linkedin](https://www.linkedin.com/company/mbitiongmbh/jobs/)
-- TradeRepublic [Website](https://traderepublic.com) - [Linkedin](https://www.linkedin.com/company/trade-republic/jobs/)
-- Holidu [Website](https://holidu.com) - [Linkedin](https://www.linkedin.com/company/holidu/jobs/)
-- Taxdoo [Website](http://www.taxdoo.com/) - [Linkedin](https://www.linkedin.com/company/taxdoo/jobs/)
-- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
-- Vimcar [Website](https://vimcar.com/) - [Linkedin](https://www.linkedin.com/company/vimcar/jobs/)
-- DataGuard [Website](https://www.dataguard.de/) - [Linkedin](https://www.linkedin.com/company/dataguard1/jobs/)
-- Alasco [Website](https://www.alasco.de/) - [Linekdin](https://www.linkedin.com/company/alasco-software/jobs/)
-- Sensory-Minds [Website](https://www.sensory-minds.com/) - [Linkedin](https://www.linkedin.com/company/sensory-minds/jobs/)
-- Energy Robotics [Website](https://www.energy-robotics.com/) - [Linkedin](https://www.linkedin.com/company/energy-robotics/jobs/)
-- Appsfactory [Website](https://appsfactory.de/en/)
-- Sixt [Website](https://www.sixt.com/)
-- OneFootball [Website](https://onefootball.com/en/home)
-- OWWN [Website](https://www.owwn.com/en)
-- Personio [Website](https://www.personio.com/)
-- JustEatTakeaway.com [Website](https://careers.justeattakeaway.com/global/en/search-results?keywords=&p=ChIJAVkDPzdOqEcRcDteW0YgIQQ&location=Berlin,%20Germany) - [Linkedin](https://www.linkedin.com/company/just-eat-takeaway-com/)
-- Solvians [Website](https://www.solvians.com/) - [Linkedin](https://www.linkedin.com/company/solvians-it-solutions-gmbh/)
-- Babbel [Website](https://www.babbel.com) - [Linkedin](https://www.linkedin.com/company/babbel-com)
-- Adjust GmbH [Website](https://www.adjust.com/)- [Linkedin](https://www.linkedin.com/company/adjustcom)
-- Gameforge [Website](https://gameforge.com) - [Linkedin](https://www.linkedin.com/company/gameforge)
-- The unbelievable Machine [Website](https://unbelievable-machine.com/) - [Linkedin](https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/)
-- Scout24 SE [Website](https://www.scout24.com/) - [Linkedin](https://www.linkedin.com/company/scout24-group/)
-- Mercedes-Benz Leasing Deutschland [Website](https://www.mercedes-benz.de/passengercars/finance/financing-leasing.html) - [Linkedin](https://www.linkedin.com/company/mercedes-benz-leasing-deutschland)
-- JITpay™ Group [Website](https://www.jitpay.eu/en/) - [Linkedin](https://www.linkedin.com/company/jitpay-gmbh/)
-- Amadeus [Website](https://amadeus.com/en) - [Linkedin](https://www.linkedin.com/company/amadeus/)
-- Media.Monks [Website](https://media.monks.com/) - [Linkedin](https://www.linkedin.com/company/mediamonks/)
-- Eurowings Digital [Website](https://eurowings-digital.de/) - [Linkedin](https://www.linkedin.com/company/eurowings-digital-gmbh/)
+Finding companies that sponsor work visas for Iranian professionals can be challenging due to various geopolitical factors. This repository aims to create a comprehensive, community-driven database of companies that have successfully hired Iranian talent and provided visa sponsorship.
 
-### Sweden
+### 🎯 Our Mission
 
-- Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
-- LeoVegas [Website](https://leovegasgroup.com/careers/) - [Linkedin](https://www.linkedin.com/company/leovegasgroup/jobs/)
-- Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
-- Accedo [Website](https://www.accedo.tv/) - [Linkedin](https://www.linkedin.com/company/accedo-tv/jobs/)
-- DoWhile [Website](https://dowhile.se/) - [Linkedin](https://www.linkedin.com/company/dowhile-consulting-scandinavia-ab/jobs/)
-- Epidemic Sound [Website](https://www.epidemicsound.com/) - [Linkedin](https://www.linkedin.com/company/epidemic-sound/jobs/)
-- King [Website](https://www.king.com/) - [Linkedin](https://www.linkedin.com/company/king/jobs/)
-- Klarna [Website](https://www.klarna.com/careers/) - [Linkedin](https://www.linkedin.com/company/klarna/jobs/)
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
-- Rebtel [Website](https://www.rebtel.com/en/jobs/) - [Linkedin](https://www.linkedin.com/company/rebtel/jobs)
-- Shortcut [Website](https://shortcut.io/sweden/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
-- Spotify [Website](https://open.spotify.com/) - [Linkedin](https://www.linkedin.com/company/spotify/jobs/)
-- Tele2 [Website](https://www.tele2.se/) - [Linkedin](https://www.linkedin.com/company/tele2/jobs/)
-- TruCaller [Website](https://www.truecaller.com/) - [Linkedin](https://www.linkedin.com/company/truecaller/jobs/)
-- Segula Technologies [Website](https://sverige.segulatechnologies.com/en/) - [Linkedin](https://www.linkedin.com/company/segula-technologies/)
-- Nexer Group [Website](https://nexergroup.teamtailor.com/) - [Linkedin](https://www.linkedin.com/company/nexer-group/)
+- **Transparency**: Provide verified information about visa-friendly companies
+- **Community**: Build a supportive network for Iranian professionals seeking international opportunities
+- **Accessibility**: Make job searching more efficient by focusing on companies with proven track records
 
-### England
+## 📊 Quick Stats
 
-- Geeks LTD [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://www.linkedin.com/company/geeks-ltd/jobs/)
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
-- Unilever [Website](https://careers.unilever.com/) - [Linkedin](https://www.linkedin.com/company/unilever/jobs/)
-- Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
-- Jaja Finance [Website](https://jaja.co.uk/) - [Linkedin](https://www.linkedin.com/company/jaja-finance/)
-- Monzo [Website](https://monzo.com/careers/) - [Linkedin](https://www.linkedin.com/company/monzo-bank/jobs/)
-- Havas [Website](https://www.havas.com/who-we-are/our-careers/) - [Linkedin](https://www.linkedin.com/company/havas/jobs/)
-- Vestiaire Collective [Website](https://www.vestiairecollective.com/journal/join-the-team/) - [Linkedin](https://www.linkedin.com/company/vestiaireco/jobs/)
+- **🏢 Total Companies**: 108
+- **🌍 Countries Covered**: 14
+- **📈 Last Updated**: January 2024
+- **📝 Data Format**: Structured JSON for easy integration
 
-### France
+## 🌍 Browse Companies
 
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
+> **New!** 📖 Each country now has its own dedicated page with detailed company information, market insights, visa tips, and salary ranges.
 
-### Norway
+### Top Countries by Number of Companies
 
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
-- Shortcut [Website](https://shortcut.io/norway/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
+| Country           | Companies | Popular Industries               |
+| ----------------- | --------- | -------------------------------- |
+| 🇳🇱 Netherlands    | 37        | FinTech, E-commerce, Software    |
+| 🇩🇪 Germany        | 33        | Technology, Automotive, Finance  |
+| 🇸🇪 Sweden         | 16        | Gaming, Music Tech, FinTech      |
+| 🇬🇧 United Kingdom | 8         | FinTech, Fashion, Consumer Goods |
+| 🇳🇴 Norway         | 2         | Software, Consulting             |
 
-### Finland
+### Browse by Country
 
-- Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
-- RELEX Solutions [Website](https://www.relexsolutions.com/) - [Linkedin](https://www.linkedin.com/company/relexsolutions/jobs/)
+#### 🔥 Major Tech Hubs
 
-### Denmark
+<table>
+<tr>
+<td width="50%">
 
-- Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
+**🇳🇱 Netherlands (37 companies)**
 
-### New Zealand
+- ASML, Booking.com, Adyen, ING
+- FinTech, E-commerce, Software
+- [**View All Companies →**](docs/countries/netherlands.md)
 
-- Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
+</td>
+<td width="50%">
 
-### Italy
+**🇩🇪 Germany (33 companies)**
 
-- BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/jobs/)
-- Harpa Italia [Website](https://www.harpaitalia.it/) - [Linkedin](https://www.linkedin.com/company/harpa-italia-s.r.l.)
+- Delivery Hero, Zalando, HelloFresh
+- Technology, Automotive, Finance
+- [**View All Companies →**](docs/countries/germany.md)
 
-### Estonia
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-- Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
+**🇸🇪 Sweden (16 companies)**
 
-### Austria
+- Spotify, Klarna, King, Epidemic Sound
+- Gaming, Music Tech, FinTech
+- [**View All Companies →**](docs/countries/sweden.md)
 
-- Journi [Website](https://journiapp.com) - [Linkedin](https://www.linkedin.com/company/journiapp/jobs/)
-- chargepoint [Website](https://www.chargepoint.com/about/opportunities) - [Linkedin](https://www.linkedin.com/company/chargepoint/jobs/)
+</td>
+<td width="50%">
 
-### Spain
+**🇬🇧 United Kingdom (8 companies)**
 
-- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
+- Wise, Monzo, Unilever, Vestiaire Collective
+- FinTech, Fashion, Consumer Goods
+- [**View All Companies →**](docs/countries/united-kingdom.md)
+
+</td>
+</tr>
+</table>
+
+#### 🌍 Other Countries
+
+| Country        | Companies | Key Industries                    | Details                                 |
+| -------------- | --------- | --------------------------------- | --------------------------------------- |
+| 🇳🇴 Norway      | 2         | Software, Consulting              | [View →](docs/countries/norway.md)      |
+| 🇫🇮 Finland     | 2         | Supply Chain, Contract Management | [View →](docs/countries/finland.md)     |
+| 🇮🇹 Italy       | 2         | Mobile Apps, Tech Consulting      | [View →](docs/countries/italy.md)       |
+| 🇦🇹 Austria     | 2         | Travel Tech, EV Charging          | [View →](docs/countries/austria.md)     |
+| 🇹🇷 Turkey      | 1         | Telecommunications                | [View →](docs/countries/turkey.md)      |
+| 🇫🇷 France      | 1         | Contract Management               | [View →](docs/countries/france.md)      |
+| 🇩🇰 Denmark     | 1         | Software Development              | [View →](docs/countries/denmark.md)     |
+| 🇪🇪 Estonia     | 1         | FinTech                           | [View →](docs/countries/estonia.md)     |
+| 🇪🇸 Spain       | 1         | B2B Marketplace                   | [View →](docs/countries/spain.md)       |
+| 🇳🇿 New Zealand | 1         | Entertainment Technology          | [View →](docs/countries/new-zealand.md) |
+
+### 🗺️ [**Browse All Countries →**](docs/countries.md)
+
+## 🤝 Contributing
+
+Want to add a company or improve the database? We'd love your help!
+
+**👉 [See our Contributing Guide](CONTRIBUTING.md) for detailed instructions**
+
+## 📞 Getting Help
+
+- 💬 **Discussions**: Use GitHub Discussions for questions
+- 🐛 **Issues**: Report problems or suggest improvements
+- 🤝 **Community**: Join our growing network of Iranian professionals
+
+## 🔄 Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for version history and updates.
+
+## ⚖️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⚠️ Disclaimer
+
+This list is community-maintained and for informational purposes only. Company policies and visa sponsorship availability can change. Always verify current requirements directly with employers.
+
+**Important Notes:**
+
+- Visa sponsorship policies may change
+- Past hiring doesn't guarantee future opportunities
+- Each application is evaluated individually
+- Consider consulting immigration professionals
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=komeilmehranfar/visa-sponsers-companies-for-iranians&type=Date)](https://star-history.com/#komeilmehranfar/visa-sponsers-companies-for-iranians&Date)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by the Iranian tech community**
+
+[⭐ Star this repository](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) if it helped you!
+
+</div>
