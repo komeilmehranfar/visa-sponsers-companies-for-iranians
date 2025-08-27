@@ -8,7 +8,7 @@
 
 This section contains detailed information about companies that provide visa sponsorship for Iranian professionals, organized by country. Each country page includes company listings, market insights, visa information, and job search tips.
 
-**Total**: **108 Companies** across **14 Countries**
+**Total**: **110 Companies** across **14 Countries**
 
 ---
 
@@ -21,7 +21,7 @@ This section contains detailed information about companies that provide visa spo
 | Country | Companies | Industries | Page |
 |---------|-----------|------------|------|
 | 🇳🇱 **Netherlands** | **37** | FinTech, E-commerce, Software | [View Details →](countries/netherlands.md) |
-| 🇩🇪 **Germany** | **33** | Technology, Automotive, Finance | [View Details →](countries/germany.md) |
+| 🇩🇪 **Germany** | **34** | Technology, Automotive, Finance | [View Details →](countries/germany.md) |
 | 🇸🇪 **Sweden** | **16** | Gaming, Music Tech, FinTech | [View Details →](countries/sweden.md) |
 
 #### Other EU Countries
@@ -30,7 +30,7 @@ This section contains detailed information about companies that provide visa spo
 |---------|-----------|------------|------|
 | 🇫🇮 **Finland** | **2** | Contract Management, Supply Chain Optimization | [View Details →](countries/finland.md) |
 | 🇮🇹 **Italy** | **2** | Mobile Apps, Technology Consulting | [View Details →](countries/italy.md) |
-| 🇦🇹 **Austria** | **2** | Travel Technology, Electric Vehicle Charging | [View Details →](countries/austria.md) |
+| 🇦🇹 **Austria** | **3** | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View Details →](countries/austria.md) |
 | 🇫🇷 **France** | **1** | Contract Management | [View Details →](countries/france.md) |
 | 🇩🇰 **Denmark** | **1** | Software Development | [View Details →](countries/denmark.md) |
 | 🇪🇪 **Estonia** | **1** | FinTech | [View Details →](countries/estonia.md) |

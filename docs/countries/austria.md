@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-**Total Companies**: 2  
+**Total Companies**: 3  
 
 
 
@@ -20,6 +20,12 @@
 - **Website**: [www.chargepoint.com/about/opportunities](https://www.chargepoint.com/about/opportunities)
 - **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/chargepoint/jobs/)
 - **Overview**: Electric Vehicle Charging company
+
+#### **Axess AG**
+- **Industry**: Ticketing & Access Management
+- **Website**: [teamaxess.com/en/career](https://teamaxess.com/en/career)
+- **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/axess-ag/)
+- **Overview**: Ticketing & Access Management company
 
 #### **Journi**
 - **Industry**: Travel Technology

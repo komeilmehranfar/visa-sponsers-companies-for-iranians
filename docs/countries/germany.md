@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-**Total Companies**: 33  
+**Total Companies**: 34  
 **Popular Industries**: Food Delivery, FinTech, Travel Technology  
 **Major Cities**: Berlin, Munich, Hamburg, Frankfurt, Cologne
 
@@ -74,6 +74,12 @@ Germany is Europe's largest economy and a tech powerhouse with a thriving startu
 - **Website**: [eurowings-digital.de/](https://eurowings-digital.de/)
 - **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/eurowings-digital-gmbh/)
 - **Overview**: Airline Technology company
+
+#### **ARRK Engineering**
+- **Industry**: Automotive Engineering
+- **Website**: [engineering.arrk.com/jobs-career/](https://engineering.arrk.com/jobs-career/)
+- **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/arrk-engineering-gmbh/)
+- **Overview**: Automotive Engineering company
 
 #### **Mercedes-Benz Leasing Deutschland**
 - **Industry**: Automotive Finance
