@@ -1,13 +1,13 @@
 # Companies which can provide visa sponsorship for Iranians
 
-Hi everyone, we want to list companies that hired at least one Iranian. 
+Hi everyone, we want to list companies that hired at least one Iranian.
 If you are an expert and tried to relocate from Iran, you definitely found out that it's hard to find companies that can support you as an Iranian to relocate and obtain visa.
 So, we want to create a list that can help you query the companies much easier. In this way, you can increase your chance of getting an interview from European or Canadian companies.
 
-
-
 ## The list
+
 ### Netherlands
+
 - DataChef [Website](https://datachef.co/) - [Linkedin](https://www.linkedin.com/company/datachefco/)
 - Leaseweb [Website](https://www.leaseweb.com/career) - [Linkedin](https://www.linkedin.com/company/leaseweb/jobs/)
 - DPGMedia [Website](https://www.dpgmediagroup.com/nl-NL/werken-bij-dpg) - [Linkedin](https://www.linkedin.com/company/dpg-media-nl/jobs/)
@@ -40,11 +40,18 @@ So, we want to create a list that can help you query the companies much easier. 
 - AG5 Skills Management Software [Website](https://www.ag5.com) - [Linkedin](https://www.linkedin.com/company/ag5skillsintelligencesoftware)
 - dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
 - Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
-
+- Capgemini [Website](https://www.capgemini.com/) - [Linkedin](https://www.linkedin.com/company/capgemini/)
+- Deloitte [Website](https://www.deloitte.com/) - [Linkedin](https://www.linkedin.com/company/capgemini/)
+- Booking.com [Website](https://www.booking.com/) - [Linkedin](https://www.linkedin.com/company/booking.com/)
+- DLL [Website](https://www.dllgroup.com/) - [Linkedin](https://www.linkedin.com/company/dllgroup/)
+- Adyen [Website](https://www.adyen.com/) - [Linkedin](https://www.linkedin.com/company/adyen)
 
 ### Turkey
+
 - Vodafone Türkiye [Website](https://www.vodafone.com.tr/) - [Linkedin](https://www.linkedin.com/company/vodafone/?originalSubdomain=tr)
+
 ### Germany
+
 - Delivery Hero [Website](https://www.deliveryhero.com/) - [Linkedin](https://www.linkedin.com/company/delivery-hero-se/jobs/)
 - Zalando [Website](https://en.zalando.de/) - [Linkedin](https://www.linkedin.com/company/zalando/jobs/)
 - Check24 [Website](https://www.check24.de/) - [Linkedin](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/)
@@ -80,6 +87,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - Eurowings Digital [Website](https://eurowings-digital.de/) - [Linkedin](https://www.linkedin.com/company/eurowings-digital-gmbh/)
 
 ### Sweden
+
 - Digital Route AB [Website](https://www.digitalroute.com/careers/) - [Linkedin](https://www.linkedin.com/company/digital-route/jobs/)
 - LeoVegas [Website](https://leovegasgroup.com/careers/) - [Linkedin](https://www.linkedin.com/company/leovegasgroup/jobs/)
 - Soltia AB [Website](https://www.soltia.se/) - [Linkedin](https://www.linkedin.com/company/soltiaab/jobs/)
@@ -109,33 +117,41 @@ So, we want to create a list that can help you query the companies much easier. 
 - Vestiaire Collective [Website](https://www.vestiairecollective.com/journal/join-the-team/) - [Linkedin](https://www.linkedin.com/company/vestiaireco/jobs/)
 
 ### France
+
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 
 ### Norway
+
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - Shortcut [Website](https://shortcut.io/norway/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
 
 ### Finland
+
 - Oneflow [Website](https://oneflow.com/) - [Linkedin](https://www.linkedin.com/company/oneflowcom/jobs/)
 - RELEX Solutions [Website](https://www.relexsolutions.com/) - [Linkedin](https://www.linkedin.com/company/relexsolutions/jobs/)
 
 ### Denmark
+
 - Shortcut [Website](https://shortcut.io/denmark/) - [Linkedin](https://www.linkedin.com/company/shortcut-as/jobs/)
 
 ### New Zealand
+
 - Vista [Website](https://cloud.vista.co/) - [Linkedin](https://www.linkedin.com/company/vista-entertainment-solutions/jobs/)
 
 ### Italy
+
 - BendingSpoons [Website](https://bendingspoons.com) - [Linkedin](https://www.linkedin.com/company/bendingspoons/jobs/)
 - Harpa Italia [Website](https://www.harpaitalia.it/) - [Linkedin](https://www.linkedin.com/company/harpa-italia-s.r.l.)
 
 ### Estonia
+
 - Wise [Website](https://www.wise.com) - [Linkedin](https://www.linkedin.com/company/wiseaccount/jobs/)
 
 ### Austria
+
 - Journi [Website](https://journiapp.com) - [Linkedin](https://www.linkedin.com/company/journiapp/jobs/)
 - chargepoint [Website](https://www.chargepoint.com/about/opportunities) - [Linkedin](https://www.linkedin.com/company/chargepoint/jobs/)
 
 ### Spain
-- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
 
+- Metro Markets [Website](https://www.metro-markets.de/) - [Linkedin](https://www.linkedin.com/company/metro-markets-gmbh/jobs)
