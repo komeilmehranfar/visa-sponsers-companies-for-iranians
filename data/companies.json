@@ -253,6 +253,12 @@
         "industry": "E-commerce Fashion"
       },
       {
+        "name": "ARRK Engineering",
+        "website": "https://engineering.arrk.com/careers/",
+        "linkedin": "https://www.linkedin.com/company/arrk-engineering/",
+        "industry": "Automotive Engineering"
+      },
+      {
         "name": "Check24",
         "website": "https://www.check24.de/",
         "linkedin": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs/",
@@ -673,6 +679,12 @@
         "website": "https://www.chargepoint.com/about/opportunities",
         "linkedin": "https://www.linkedin.com/company/chargepoint/jobs/",
         "industry": "Electric Vehicle Charging"
+      },
+      {
+        "name": "Axess AG",
+        "website": "https://teamaxess.com/en/career",
+        "linkedin": "https://www.linkedin.com/company/axess-ag/",
+        "industry": "Ticketing & Access Management"
       }
     ],
     "spain": [
