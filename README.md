@@ -41,7 +41,7 @@ So, we want to create a list that can help you query the companies much easier. 
 - dé VakantieDiscounter [Website](https://werkenbij.vakantiediscounter.nl) - [Linkedin](https://www.linkedin.com/company/vakantiediscounter)
 - Adevinta [Website](https://www.adevinta.com/) - [Linkedin](https://www.linkedin.com/company/adevinta/)
 - Capgemini [Website](https://www.capgemini.com/) - [Linkedin](https://www.linkedin.com/company/capgemini/)
-- Deloitte [Website](https://www.deloitte.com/) - [Linkedin](https://www.linkedin.com/company/capgemini/)
+- Deloitte [Website](https://www.deloitte.com/) - [Linkedin](https://www.linkedin.com/company/deloitte/)
 - Booking.com [Website](https://www.booking.com/) - [Linkedin](https://www.linkedin.com/company/booking.com/)
 - DLL [Website](https://www.dllgroup.com/) - [Linkedin](https://www.linkedin.com/company/dllgroup/)
 - Adyen [Website](https://www.adyen.com/) - [Linkedin](https://www.linkedin.com/company/adyen)
