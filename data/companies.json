@@ -2,7 +2,7 @@
   "metadata": {
     "version": "2.0.0",
     "description": "Companies that provide visa sponsorship for Iranian professionals",
-    "total_companies": 111,
+    "total_companies": 112,
     "countries": 14,
     "last_updated": "2025-08-27"
   },
@@ -235,6 +235,12 @@
         "website": "https://jobs.bitvavo.com/",
         "linkedin": "https://www.linkedin.com/company/bitvavocom/jobs",
         "industry": "Financial Services"
+      },
+      {
+        "name": "Speakap",
+        "website": "https://www.speakap.com/",
+        "linkedin": "https://www.linkedin.com/company/speakap",
+        "industry": "Communication Platform"
       }
     ],
     "turkey": [
