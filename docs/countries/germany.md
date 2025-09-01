@@ -237,4 +237,4 @@ Germany is Europe's largest economy and a tech powerhouse with a thriving startu
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: 2025-08-27*
+*Last updated: 2025-09-01*

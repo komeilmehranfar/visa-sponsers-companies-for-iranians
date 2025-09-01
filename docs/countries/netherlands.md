@@ -6,7 +6,7 @@
 
 ## 📊 Overview
 
-**Total Companies**: 38  
+**Total Companies**: 39  
 **Popular Industries**: Digital Consulting, Software Development, Data & Analytics  
 **Major Cities**: Amsterdam, The Hague, Utrecht, Eindhoven
 
@@ -85,6 +85,12 @@ The Netherlands is one of the most Iranian-friendly countries in Europe with a s
 - **Website**: [companyinfo.nl/en/](https://companyinfo.nl/en/)
 - **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/company-info/jobs/)
 - **Overview**: Business Intelligence company
+
+#### **Speakap**
+- **Industry**: Communication Platform
+- **Website**: [www.speakap.com/](https://www.speakap.com/)
+- **LinkedIn**: [linkedin.com/company](https://www.linkedin.com/company/speakap)
+- **Overview**: Communication Platform company
 
 #### **Capgemini**
 - **Industry**: Consulting & Technology
@@ -260,4 +266,4 @@ The Netherlands is one of the most Iranian-friendly countries in Europe with a s
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: 2025-08-27*
+*Last updated: 2025-09-01*

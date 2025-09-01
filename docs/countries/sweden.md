@@ -127,4 +127,4 @@ Sweden is a Nordic innovation hub with a strong tech ecosystem and excellent qua
 
 [← Back to Main Page](../../README.md) | [🌍 All Countries](../countries.md)
 
-*Last updated: 2025-08-27*
+*Last updated: 2025-09-01*
