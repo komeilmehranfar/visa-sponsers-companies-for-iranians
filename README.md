@@ -31,9 +31,9 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 ## 📊 Quick Stats
 
-- **🏢 Total Companies**: 110
+- **🏢 Total Companies**: 112
 - **🌍 Countries Covered**: 14
-- **📈 Last Updated**: August 2025
+- **📈 Last Updated**: September 2025
 - **📝 Data Format**: Structured JSON for easy integration
 
 ## 🌍 Browse Companies
@@ -42,22 +42,22 @@ Finding companies that sponsor work visas for Iranian professionals can be chall
 
 ### Browse by Country
 
-| Country               | Companies | Key Industries                      | Details                                            |
-| --------------------- | --------- | ----------------------------------- | -------------------------------------------------- |
-| 🇳🇱 **Netherlands**  | **37**     | Digital Consulting, Software Development, Data & Analytics | [View Details →](docs/countries/netherlands.md)     |
-| 🇩🇪 **Germany**      | **34**     | Food Delivery, FinTech, Travel Technology | [View Details →](docs/countries/germany.md)     |
-| 🇸🇪 **Sweden**       | **16**     | Telecommunications, Usage Intelligence, Online Gaming | [View Details →](docs/countries/sweden.md)     |
-| 🇬🇧 **United Kingdom** | **8**      | FinTech, Technology Services, Contract Management | [View Details →](docs/countries/united-kingdom.md)     |
-| 🇦🇹 **Austria**      | **3**      | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View Details →](docs/countries/austria.md)     |
-| 🇳🇴 **Norway**       | **2**      | Contract Management, Software Development | [View Details →](docs/countries/norway.md)     |
-| 🇫🇮 **Finland**      | **2**      | Contract Management, Supply Chain Optimization | [View Details →](docs/countries/finland.md)     |
-| 🇮🇹 **Italy**        | **2**      | Mobile Apps, Technology Consulting  | [View Details →](docs/countries/italy.md)     |
-| 🇹🇷 **Turkey**       | **1**      | Telecommunications                  | [View Details →](docs/countries/turkey.md)     |
-| 🇫🇷 **France**       | **1**      | Contract Management                 | [View Details →](docs/countries/france.md)     |
-| 🇩🇰 **Denmark**      | **1**      | Software Development                | [View Details →](docs/countries/denmark.md)     |
-| 🇳🇿 **New Zealand**  | **1**      | Entertainment Technology            | [View Details →](docs/countries/new-zealand.md)     |
-| 🇪🇪 **Estonia**      | **1**      | FinTech                             | [View Details →](docs/countries/estonia.md)     |
-| 🇪🇸 **Spain**        | **1**      | B2B Marketplace                     | [View Details →](docs/countries/spain.md)     |
+| Country               | Companies | Key Industries                                                              | Details                                            |
+| --------------------- | --------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
+| 🇳🇱 **Netherlands**    | **39**    | Digital Consulting, Software Development, Data & Analytics                  | [View Details →](docs/countries/netherlands.md)    |
+| 🇩🇪 **Germany**        | **34**    | Food Delivery, FinTech, Travel Technology                                   | [View Details →](docs/countries/germany.md)        |
+| 🇸🇪 **Sweden**         | **16**    | Telecommunications, Usage Intelligence, Online Gaming                       | [View Details →](docs/countries/sweden.md)         |
+| 🇬🇧 **United Kingdom** | **8**     | FinTech, Technology Services, Contract Management                           | [View Details →](docs/countries/united-kingdom.md) |
+| 🇦🇹 **Austria**        | **3**     | Travel Technology, Electric Vehicle Charging, Ticketing & Access Management | [View Details →](docs/countries/austria.md)        |
+| 🇳🇴 **Norway**         | **2**     | Contract Management, Software Development                                   | [View Details →](docs/countries/norway.md)         |
+| 🇫🇮 **Finland**        | **2**     | Contract Management, Supply Chain Optimization                              | [View Details →](docs/countries/finland.md)        |
+| 🇮🇹 **Italy**          | **2**     | Mobile Apps, Technology Consulting                                          | [View Details →](docs/countries/italy.md)          |
+| 🇹🇷 **Turkey**         | **1**     | Telecommunications                                                          | [View Details →](docs/countries/turkey.md)         |
+| 🇫🇷 **France**         | **1**     | Contract Management                                                         | [View Details →](docs/countries/france.md)         |
+| 🇩🇰 **Denmark**        | **1**     | Software Development                                                        | [View Details →](docs/countries/denmark.md)        |
+| 🇳🇿 **New Zealand**    | **1**     | Entertainment Technology                                                    | [View Details →](docs/countries/new-zealand.md)    |
+| 🇪🇪 **Estonia**        | **1**     | FinTech                                                                     | [View Details →](docs/countries/estonia.md)        |
+| 🇪🇸 **Spain**          | **1**     | B2B Marketplace                                                             | [View Details →](docs/countries/spain.md)          |
 
 ## 🤝 Contributing
 
